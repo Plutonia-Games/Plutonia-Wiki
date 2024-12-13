@@ -22,6 +22,14 @@ Non, vous n'avez pas besoin d'avoir acheté Minecraft pour pouvoir jouer. Il vou
 
 
 
+### <mark style="color:orange;">➤ Est-ce possible de changer de skin / cape ?</mark>
+
+Oui, il est tout à fait possible de changer de skin / cape, et ce totalement gratuitement !
+
+Pour ce faire, veuillez vous connecter sur votre compte sur notre [site internet](https://plutonia-mc.fr/), il vous suffira simplement de cliquer dans l'onglet "Mon skin / Ma cape", en cliquant sur votre pseudonyme en haut à droite de la page. 😉
+
+
+
 ### <mark style="color:orange;">➤ J'ai trouvé un bug, que dois-je faire ?</mark>
 
 Si vous avez trouvé un bug, nous vous invitons à le signaler sur notre [serveur Discord](https://discord.gg/plutonia) en créant un ticket.
