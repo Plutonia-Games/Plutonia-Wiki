@@ -37,4 +37,4 @@ Il vous suffit simplement de cliquer sur le bouton `Vérifier l'adresse e-mail` 
 
 
 
-🎉 Et voilà, votre compte a été crée avec succès, il vous reste plus qu'à accéder à notre lanceur.
+🎉 Et voilà, votre compte a été crée avec succès, il vous reste plus qu'à [accéder à notre lanceur](installer-le-lanceur.md).

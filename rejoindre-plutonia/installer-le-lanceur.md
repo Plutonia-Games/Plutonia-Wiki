@@ -30,7 +30,7 @@ Une fenêtre d'installation apparaîtra—veuillez ne pas y toucher tant que l'i
 
 Téléchargez le lanceur et exécutez-le. Une fois exécuté, glissez l'application `Plutonia` (à gauche) dans le dossier `Applications` (à droite).
 
-✔️ Vous pourrez ensuite trouver le lanceur dans vos applications.
+✔️ Vous pourrez ensuite trouver le lanceur dans vos applications. Vous n'avez plus qu'à le lancer !
 
 
 
