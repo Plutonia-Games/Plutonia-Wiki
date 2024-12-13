@@ -1,2 +1,2 @@
-# 🏃‍♂️ JumpConquest
+# 🪢 JumpConquest
 

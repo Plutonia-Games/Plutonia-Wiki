@@ -32,17 +32,33 @@
 
 ## 👷 Métiers
 
+* [🚧 Builder](metiers/builder.md)
 * [🧑‍🌾 Fermier](metiers/fermier.md)
+* [⚔️ Chasseur](metiers/chasseur.md)
+* [⛏️ Mineur](metiers/mineur.md)
 
 ## 🥇 Évents
 
-* [🏃‍♂️ JumpConquest](events/jumpconquest.md)
+* [🧟 Momie](events/momie.md)
+* [🪢 JumpConquest](events/jumpconquest.md)
+* [🤑 Marché noir](events/marche-noir.md)
+* [🏃 BlockRush](events/blockrush.md)
+* [⚡ Totem](events/totem.md)
+* [⛰️ KoTH](events/koth.md)
+* [⚔️ Tournois](events/tournois.md)
+* [📦 Largage](events/largage.md)
 
 ## 🌍 Mondes
 
-* [🔪 La PvPBox](mondes/la-pvpbox.md)
+* [🤺 Factions](mondes/factions.md)
+* [🌋 Nether](mondes/nether.md)
+* [⭕ End](mondes/end.md)
+* [⛏️ Minage](mondes/minage.md)
+* [🔪 PvPBox](mondes/pvpbox.md)
+* [⛰️ Freebuild](mondes/freebuild.md)
 
 ## 👑 Mods
 
+* [🖱️ Autoclique](mods/autoclique.md)
 * [🧭 Waypoints](mods/waypoints.md)
 * [🔧 Déplacer les interfaces](mods/deplacer-les-interfaces.md)
