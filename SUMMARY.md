@@ -4,12 +4,12 @@
 * [👋 À propos de Plutonia](README.md)
 * [⁉️ FAQ](faq.md)
 
-## 🧑 Rejoindre Plutonia
+## Rejoindre Plutonia
 
 * [🔗 Créer un compte](rejoindre-plutonia/creer-un-compte.md)
 * [📂 Installer le lanceur](rejoindre-plutonia/installer-le-lanceur.md)
 
-## ⚔️ Gameplay
+## Gameplay
 
 * [🪃 Les objets](gameplay/les-objets/README.md)
   * [🔪 Armes](gameplay/les-objets/armes.md)
@@ -25,19 +25,19 @@
 * [🧟 Les monstres](gameplay/les-monstres.md)
 * [🤔 Les quêtes](gameplay/les-quetes.md)
 
-## 💰 Commerce
+## Commerce
 
 * [💳 Le magasin](commerce/le-magasin.md)
 * [💱 L'hôtel des ventes](commerce/lhotel-des-ventes.md)
 
-## 👷 Métiers
+## Métiers
 
 * [🚧 Builder](metiers/builder.md)
 * [🧑‍🌾 Fermier](metiers/fermier.md)
 * [⚔️ Chasseur](metiers/chasseur.md)
 * [⛏️ Mineur](metiers/mineur.md)
 
-## 🥇 Évents
+## Évents
 
 * [🧟 Momie](events/momie.md)
 * [🪢 JumpConquest](events/jumpconquest.md)
@@ -48,7 +48,7 @@
 * [⚔️ Tournois](events/tournois.md)
 * [📦 Largage](events/largage.md)
 
-## 🌍 Mondes
+## Mondes
 
 * [🤺 Factions](mondes/factions.md)
 * [🌋 Nether](mondes/nether.md)
@@ -57,7 +57,7 @@
 * [🔪 PvPBox](mondes/pvpbox.md)
 * [⛰️ Freebuild](mondes/freebuild.md)
 
-## 👑 Mods
+## Mods
 
 * [🖱️ Autoclique](mods/autoclique.md)
 * [🧭 Waypoints](mods/waypoints.md)
