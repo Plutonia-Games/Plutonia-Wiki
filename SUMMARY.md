@@ -34,6 +34,9 @@
   * [🦍 Gorille géant](gameplay/les-monstres/gorille-geant.md)
   * [🌋 Seigneur de lave](gameplay/les-monstres/seigneur-de-lave.md)
 * [🤔 Les quêtes](gameplay/les-quetes.md)
+* [🥇 Les classements](gameplay/les-classements/README.md)
+  * [⚔️ Factions](gameplay/les-classements/factions.md)
+  * [🌵 Farming](gameplay/les-classements/farming.md)
 
 ## Commerce
 

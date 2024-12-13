@@ -12,7 +12,7 @@ Si vous avez une faction de plus de 5 membres, veuillez créer un ticket sur not
 
 Lors de votre première connexion, vous serez dirigé vers l'un de nos lobbys. Cette étape sera tout le temps la même lors de votre connexion.
 
-Une fois connecté, vous aurez dans votre barre d'inventaire les objets suivants: ![](../.gitbook/assets/glowstone_dust.png), ![](../.gitbook/assets/nether_star.png), et ![](../.gitbook/assets/dye_powder_lime.png).
+Une fois connecté, vous aurez dans votre barre d'inventaire les objets suivants : ![](../.gitbook/assets/glowstone_dust.png), ![](../.gitbook/assets/nether_star.png), et ![](../.gitbook/assets/dye_powder_lime.png).
 
 ⚠️ Ce qui nous intéresse ici est l'objet ![](../.gitbook/assets/nether_star.png). Pour les autres objets, veuillez vous référer à [cette section](../mondes/lobbys.md).
 
