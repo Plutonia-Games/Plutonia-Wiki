@@ -4,10 +4,10 @@
 * [👋 À propos de Plutonia](README.md)
 * [⁉️ FAQ](faq.md)
 
-## Rejoindre Plutonia
+## 🧑 Rejoindre Plutonia
 
-* [Créer un compte](rejoindre-plutonia/creer-un-compte.md)
-* [Utiliser le lanceur](rejoindre-plutonia/utiliser-le-lanceur.md)
+* [🔗 Créer un compte](rejoindre-plutonia/creer-un-compte.md)
+* [📂 Utiliser le lanceur](rejoindre-plutonia/utiliser-le-lanceur.md)
 
 ## ⚔️ Gameplay
 
