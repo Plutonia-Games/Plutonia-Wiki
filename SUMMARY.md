@@ -7,7 +7,7 @@
 ## 🧑 Rejoindre Plutonia
 
 * [🔗 Créer un compte](rejoindre-plutonia/creer-un-compte.md)
-* [📂 Utiliser le lanceur](rejoindre-plutonia/utiliser-le-lanceur.md)
+* [📂 Installer le lanceur](rejoindre-plutonia/installer-le-lanceur.md)
 
 ## ⚔️ Gameplay
 
