@@ -17,13 +17,21 @@
   * [⛏️ Outils](gameplay/les-objets/outils.md)
   * [🍔 Nourritures](gameplay/les-objets/nourritures.md)
   * [🥃 Potions](gameplay/les-objets/potions.md)
+  * [☁️ Autres](gameplay/les-objets/autres.md)
 * [⛰️ Les blocs](gameplay/les-blocs/README.md)
   * [💎 Minerais](gameplay/les-blocs/minerais.md)
   * [🔧 Machines](gameplay/les-blocs/machines.md)
   * [🌼 Plantations](gameplay/les-blocs/plantations.md)
 * [🪄 Les enchantements](gameplay/les-enchantements/README.md)
   * [📙 Raccommodage](gameplay/les-enchantements/raccommodage.md)
-* [🧟 Les monstres](gameplay/les-monstres.md)
+* [🧟 Les monstres](gameplay/les-monstres/README.md)
+  * [💂 Les gardiens](gameplay/les-monstres/les-gardiens.md)
+  * [🧟 Momie](gameplay/les-monstres/momie.md)
+  * [🦂 Scorpion](gameplay/les-monstres/scorpion.md)
+  * [🦅 Wyvern](gameplay/les-monstres/wyvern.md)
+  * [⭕ Hades](gameplay/les-monstres/hades.md)
+  * [🦍 Gorille géant](gameplay/les-monstres/gorille-geant.md)
+  * [🌋 Seigneur de lave](gameplay/les-monstres/seigneur-de-lave.md)
 * [🤔 Les quêtes](gameplay/les-quetes.md)
 
 ## Commerce
@@ -48,6 +56,7 @@
 * [⛰️ KoTH](events/koth.md)
 * [⚔️ Tournois](events/tournois.md)
 * [📦 Largage](events/largage.md)
+* [🩸 Rituel](events/rituel.md)
 
 ## Mondes
 
