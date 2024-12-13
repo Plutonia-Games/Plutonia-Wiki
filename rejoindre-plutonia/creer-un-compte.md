@@ -3,7 +3,7 @@ icon: globe-pointer
 description: Vous n'avez pas encore de compte ?
 ---
 
-# Créer un compte
+# 🔗 Créer un compte
 
 Avant de venir jouer, il vous faudra vous <mark style="color:orange;">créer un compte</mark>, c'est très simple !
 
@@ -27,15 +27,15 @@ Il vous suffira simplement de rentrer le <mark style="color:orange;">pseudonyme 
 
 
 
-Une fois tous les champs remplis, cliquez simplement sur le bouton "Inscription".
+Une fois tous les champs remplis, cliquez simplement sur le bouton `Inscription`.
 
-Un e-mail sera donc envoyé à l'adresse e-mail renseignée, veuillez donc vérifier votre boite de réception. L'expéditeur du mail est "Plutonia".
+Un e-mail sera donc envoyé à l'adresse e-mail renseignée, veuillez donc vérifier votre boite de réception. <mark style="color:orange;">L'expéditeur du mail est Plutonia.</mark>
 
 L'e-mail devrait ressembler à celui-ci :
 
 <figure><img src="../.gitbook/assets/O0cREfxvXt.png" alt=""><figcaption><p>E-mail de vérification de Plutonia</p></figcaption></figure>
 
-Il vous suffit simplement de cliquer sur le bouton "Vérifier l'adresse e-mail" pour confirmer votre inscription.
+Il vous suffit simplement de cliquer sur le bouton `Vérifier l'adresse e-mail` pour confirmer votre inscription.
 
 
 
