@@ -15,7 +15,7 @@ Notre lanceur est facile à utiliser, assurez-vous simplement d'avoir déjà [cr
 
 
 
-### 🖥️ Windows :
+### 🖥️ Windows
 
 Téléchargez le lanceur et exécutez-le.
 
@@ -25,7 +25,7 @@ Une fenêtre d'installation apparaîtra—veuillez ne pas y toucher tant que l'i
 
 
 
-### 🖥️ macOS :
+### 🖥️ macOS
 
 Téléchargez le lanceur et exécutez-le. Une fois exécuté, glissez l'application `Plutonia` (à gauche) dans le dossier `Applications` (à droite).
 
@@ -33,7 +33,7 @@ Téléchargez le lanceur et exécutez-le. Une fois exécuté, glissez l'applicat
 
 
 
-### 🖥️ Linux :
+### 🖥️ Linux
 
 Téléchargez le lanceur, et déplacez-le sur votre bureau.
 
