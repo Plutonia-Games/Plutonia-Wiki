@@ -27,7 +27,7 @@ Une fenêtre d'installation apparaîtra—veuillez ne pas y toucher tant que l'i
 
 ### 🖥️ macOS :
 
-Téléchargez le lanceur et exécutez-le, une fois exécuté, glissez l'application `Plutonia` (à gauche) dans le dossier `Applications` (à droite).
+Téléchargez le lanceur et exécutez-le. Une fois exécuté, glissez l'application `Plutonia` (à gauche) dans le dossier `Applications` (à droite).
 
 ✔️ Vous pourrez ensuite trouver le lanceur dans vos applications.
 
