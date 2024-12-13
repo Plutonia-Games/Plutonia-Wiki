@@ -47,7 +47,7 @@ Une fois installé, veuillez rendre le fichier `Plutonia-linux-x86_64.AppImage` 
 
 ### 🤔 Et après ?
 
-Une fois le lancer installé et lancé, une fenêtre comme celle-ci s'ouvrira :
+Une fois le lanceur installé et lancé, une fenêtre comme celle-ci s'ouvrira :
 
 <figure><img src="../.gitbook/assets/Yf2elj2R9E.png" alt=""><figcaption><p>Lanceur de Plutonia</p></figcaption></figure>
 
