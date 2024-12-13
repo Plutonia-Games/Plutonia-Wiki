@@ -8,6 +8,7 @@
 
 * [🔗 Créer un compte](rejoindre-plutonia/creer-un-compte.md)
 * [📂 Installer le lanceur](rejoindre-plutonia/installer-le-lanceur.md)
+* [❓ Bien débuter](rejoindre-plutonia/bien-debuter.md)
 
 ## Gameplay
 
@@ -60,6 +61,7 @@
 
 ## Mondes
 
+* [📍 Lobbys](mondes/lobbys.md)
 * [🤺 Factions](mondes/factions.md)
 * [🌋 Nether](mondes/nether.md)
 * [⭕ End](mondes/end.md)

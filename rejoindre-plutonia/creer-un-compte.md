@@ -19,13 +19,11 @@ Après avoir accédé à la page d'inscription, vous verrez un écran similaire 
 
 Il vous suffira simplement de rentrer le <mark style="color:orange;">pseudonyme que vous souhaitez prendre</mark>, une <mark style="color:orange;">adresse e-mail valide</mark>, ainsi qu'un <mark style="color:orange;">mot de passe robuste et unique</mark>.
 
-⚠️ Votre pseudonyme doit faire au minimum 3 caractères, et au maximum 12 caractères. Il ne doit pas comprendre de caractères spéciaux.
-
-⚠️ Votre adresse e-mail doit être valide, car elle sera vérifiée.
-
-⚠️ Assurez-vous que votre mot de passe est sécurisé et unique, c'est-à-dire qu'il ne doit être utilisé que sur notre serveur et ne pas avoir été utilisé autre part.
-
-
+{% hint style="danger" %}
+* Votre pseudonyme doit faire au minimum 3 caractères, et au maximum 12 caractères. Il ne doit pas comprendre de caractères spéciaux.
+* Votre adresse e-mail doit être valide, car elle sera vérifiée.
+* Assurez-vous que votre mot de passe est sécurisé et unique, c'est-à-dire qu'il ne doit être utilisé que sur notre serveur et ne pas avoir été utilisé autre part.
+{% endhint %}
 
 Une fois tous les champs remplis, cliquez simplement sur le bouton `Inscription`.
 

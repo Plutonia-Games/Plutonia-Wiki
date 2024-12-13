@@ -9,9 +9,10 @@ Pour commencer, téléchargez notre lanceur depuis [cette page](https://plutonia
 
 Notre lanceur est facile à utiliser, assurez-vous simplement d'avoir déjà [crée un compte](creer-un-compte.md) sur notre [site internet](https://plutonia-mc.fr/).
 
-⚠️ Assurez-vous de sélectionner le lanceur correspondant à votre système d'exploitation.
-
-⚠️ Les mises à jour automatiques ne sont pas disponibles sur macOS.
+{% hint style="danger" %}
+* Assurez-vous de sélectionner le lanceur correspondant à votre système d'exploitation.
+* Les mises à jour automatiques ne sont pas disponibles sur macOS.
+{% endhint %}
 
 
 
