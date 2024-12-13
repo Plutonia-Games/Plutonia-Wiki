@@ -35,13 +35,13 @@ Téléchargez le lanceur et exécutez-le, une fois exécuté, glissez l'applicat
 
 ### 🖥️ Linux :
 
-Téléchargez le lanceur.
+Téléchargez le lanceur, et déplacez-le sur votre bureau.
 
 Veuillez vous assurer d'avoir `libfuse2` d'installé. Si ce n'est pas le cas, vous pouvez l'installer avec la commande suivante : `apt install libfuse2`.
 
-Une fois installé, veuillez rendre le fichier `Plutonia-linux-x86_64.AppImage` exécutable avec la commande : `chmod a+x Plutonia-linux-x86_64.AppImage`.
+Une fois installé, veuillez rendre le fichier `Plutonia-linux-x86_64.AppImage` exécutable avec la commande suivante : `chmod a+x Plutonia-linux-x86_64.AppImage`.
 
-✔️ Il vous suffira ensuite de le lancer avec la commande : `./Plutonia-linux-x86_64.AppImage`.
+✔️ Il vous suffira ensuite de le lancer avec la commande : `./Plutonia-linux-x86_64.AppImage --no-sandbox`.
 
 
 
