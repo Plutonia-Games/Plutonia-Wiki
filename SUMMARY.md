@@ -18,12 +18,18 @@
   * [🍔 Nourritures](gameplay/les-objets/nourritures.md)
   * [🥃 Potions](gameplay/les-objets/potions.md)
 * [⛰️ Les blocs](gameplay/les-blocs/README.md)
+  * [💎 Minerais](gameplay/les-blocs/minerais.md)
   * [🔧 Machines](gameplay/les-blocs/machines.md)
   * [🌼 Plantations](gameplay/les-blocs/plantations.md)
 * [🪄 Les enchantements](gameplay/les-enchantements.md)
 * [🧟 Les monstres](gameplay/les-monstres.md)
 * [🤔 Les quêtes](gameplay/les-quetes.md)
 * [🔧 Nos interfaces](gameplay/nos-interfaces.md)
+
+## 💰 Commerce
+
+* [💳 Le magasin](commerce/le-magasin.md)
+* [💱 L'hôtel des ventes](commerce/lhotel-des-ventes.md)
 
 ## 👷 Métiers
 
