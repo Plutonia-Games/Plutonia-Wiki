@@ -24,7 +24,6 @@
 * [🪄 Les enchantements](gameplay/les-enchantements.md)
 * [🧟 Les monstres](gameplay/les-monstres.md)
 * [🤔 Les quêtes](gameplay/les-quetes.md)
-* [🔧 Nos interfaces](gameplay/nos-interfaces.md)
 
 ## 💰 Commerce
 
@@ -42,3 +41,8 @@
 ## 🌍 Mondes
 
 * [🔪 La PvPBox](mondes/la-pvpbox.md)
+
+## 👑 Mods
+
+* [🧭 Waypoints](mods/waypoints.md)
+* [🔧 Déplacer les interfaces](mods/deplacer-les-interfaces.md)
