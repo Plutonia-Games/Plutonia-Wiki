@@ -23,7 +23,7 @@
 * [🪄 Les enchantements](gameplay/les-enchantements.md)
 * [🧟 Les monstres](gameplay/les-monstres.md)
 * [🤔 Les quêtes](gameplay/les-quetes.md)
-* [🔧 Nos mods](gameplay/nos-mods.md)
+* [🔧 Nos interfaces](gameplay/nos-interfaces.md)
 
 ## 👷 Métiers
 
