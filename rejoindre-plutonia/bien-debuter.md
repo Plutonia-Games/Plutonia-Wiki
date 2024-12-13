@@ -4,6 +4,10 @@ description: Comment bien démarrer son aventure ?
 
 # ❓ Bien débuter
 
+{% hint style="danger" %}
+Si vous avez une faction de plus de 5 membres, veuillez créer un ticket sur notre [serveur Discord](https://discord.gg/plutonia) pour avoir accès à un pack de démarrage contenant de nombreux objets.
+{% endhint %}
+
 ### 🤔 Vous êtes nouveau, et vous souhaitez savoir comment bien débuter sur le serveur ?
 
 Lors de votre première connexion, vous serez dirigé vers l'un de nos lobbys. Cette étape sera tout le temps la même lors de votre connexion.
