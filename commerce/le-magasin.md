@@ -25,5 +25,5 @@ Quand vous cliquez sur l'objet souhaité (ici du gravier), une interface comme c
 Pour effectuer une transaction, saisissez la quantité souhaitée à gauche et cliquez sur le bouton `Acheter` ou `Vendre` selon votre besoin.
 
 {% hint style="info" %}
-Effectuez la commande `/sellall` pour vendre tout le contenu votre inventaire. Seulement les objets disponible dans le magasin seront vendus.
+Effectuez la commande `/sellall` pour vendre tout le contenu de votre inventaire. Seuls les objets disponibles dans le magasin seront vendus.
 {% endhint %}
