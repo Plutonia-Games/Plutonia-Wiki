@@ -42,6 +42,7 @@
 
 * [💳 Le magasin](commerce/le-magasin.md)
 * [💱 L'hôtel des ventes](commerce/lhotel-des-ventes.md)
+* [🔱 Échange sécurisé](commerce/echange-securise.md)
 
 ## Métiers
 
