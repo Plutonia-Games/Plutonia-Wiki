@@ -40,7 +40,7 @@ Après avoir terminé votre session de minage, utilisez la commande `/factions` 
 Pour plus d'informations concernant le monde `PvP/Factions`, veuillez vous référer à [cette section](../mondes/factions.md).
 {% endhint %}
 
-Et voilà, c'est déjà terminé, c'est plutôt simple, non ? N'hésitez pas à consulter cette section pour connaitre tous les mondes disponibles, et leur utilité.
+Et voilà, c'est déjà terminé, c'est plutôt simple, non ? N'hésitez pas à consulter [cette section](broken-reference) pour connaitre tous les mondes disponibles, et leur utilité.
 
 {% hint style="info" %}
 Pour soutenir le serveur et accélérer votre progression, découvrez les divers avantages disponibles dans notre [boutique en ligne](https://plutonia-mc.fr/shop). Vous pouvez acheter différents kits, grades et cosmétiques.
