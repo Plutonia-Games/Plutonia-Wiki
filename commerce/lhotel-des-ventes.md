@@ -20,7 +20,7 @@ Vous retrouverez ici les offres actuelles de tous les joueurs.
 
 
 
-### Effectuer un achat ?
+### Comment acheter ?
 
 Pour effectuer un achat, vous avez simplement à cliquer sur l'objet souhaité. Ici, cela sera le bois d'acacia. L'interface suivante s'ouvrira :
 
