@@ -24,11 +24,7 @@ Vous devez être à moins de 16 blocs de la personne à qui vous souhaitez faire
 
 Il vous suffira alors de déposer dans l'interface les objets que vous souhaitez échanger avec votre client. Une fois que vous êtes prêt, vous avez juste à cliquer sur le bouton `Prêt`.
 
-Une fois que votre client a confirmé, vous pouvez voir sa proposition. Si vous êtes d'accord avec l'offre proposée, cliquez sur le bouton `Accepter`.
-
-{% hint style="info" %}
-Il faudra que votre client clique aussi sur le bouton `Accepter` pour confirmer la transaction.
-{% endhint %}
+Une fois que votre client a confirmé, vous pouvez voir sa proposition. Si vous êtes d'accord avec l'offre proposée, cliquez sur le bouton `Accepter`. Il faudra que votre client clique aussi sur le bouton `Accepter` pour confirmer la transaction.
 
 🎉 Et voilà, vous venez d'effectuer un échange sécurisé.
 
