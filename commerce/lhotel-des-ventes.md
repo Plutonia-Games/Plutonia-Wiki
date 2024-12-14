@@ -36,9 +36,9 @@ Si le prix, et la quantité vous convient, vous pouvez effectuer l'achat en cliq
 
 Pour mettre un article en vente, utilisez simplement la commande `/auction sell` ou `/hdv sell`. Une interface de vente comme celle ci-dessous s'ouvrira alors.
 
-(insérer l'image)
+<figure><img src="../.gitbook/assets/hdv_sell.png" alt=""><figcaption><p>Interface de vente de l'hôtel des ventes</p></figcaption></figure>
 
-Il vous suffira alors de rentrer le montant, le type de monnaie (dollars, ou points boutiques), ainsi que la quantité que vous souhaitez vendre.
+Il vous suffira alors de rentrer le montant, le mode de paiement (dollars, ou points boutiques), ainsi que la quantité que vous souhaitez mettre en vente.
 
 {% hint style="warning" %}
 Une taxe de 5% est appliqué à tous les articles mis en vente, que ce soit en points boutiques, ou en dollars.
