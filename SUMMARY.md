@@ -70,6 +70,7 @@
 * [🌋 Nether](mondes/nether.md)
 * [⭕ End](mondes/end.md)
 * [⛏️ Minage](mondes/minage.md)
+* [💲 Casino](mondes/casino.md)
 * [🔪 PvPBox](mondes/pvpbox.md)
 * [⛰️ Freebuild](mondes/freebuild.md)
 
