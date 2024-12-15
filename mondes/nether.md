@@ -6,7 +6,7 @@ description: Le nether, pourquoi ?
 
 ### Mais à quoi cela sert ?
 
-Nous avons décidé d'héberger le `Nether` sur un serveur entièrement indépendant. Cela garantit une expérience fluide à travers tous nos services et résout de nombreux problèmes liés à la duplication. Tout est similaire au `Nether` normal, <mark style="color:orange;">cependant, il est important de se rappeler que ce serveur fonctionne indépendamment du serveur de factions, même si les inventaires, les économies, le chat, les quêtes et les métiers sont liés.</mark>
+Nous avons décidé d'héberger le `Nether` sur un serveur entièrement indépendant. Cela garantit une expérience fluide à travers tous nos services et résout de nombreux problèmes liés à la duplication. Tout est similaire au `Nether` normal, <mark style="color:orange;">cependant, il est important de se rappeler que ce serveur fonctionne indépendamment du serveur factions, même si les inventaires, les économies, le chat, les quêtes et les métiers sont liés.</mark>
 
 {% hint style="info" %}
 Vous pouvez aller sur ce serveur grâce à la commande `/nether`.
@@ -16,7 +16,7 @@ Vous pouvez aller sur ce serveur grâce à la commande `/nether`.
 
 ### Mais quelles sont les commandes disponibles ?
 
-<mark style="color:orange;">Les commandes disponibles sur ce serveur sont similaires à celles du serveur factions.</mark> Les fonctionnalités telles que l'hôtel des ventes, le magasin du serveur et la gestion des factions ne sont pas disponibles.
+<mark style="color:orange;">Les commandes disponibles sur ce serveur sont similaires à celles du serveur factions.</mark> Les fonctionnalités telles que l'hôtel des ventes, le magasin du serveur et la gestion des factions ne sont pas disponibles. Pour consulter les commandes du serveur factions, veuillez consulter [cette section](../gameplay/les-classements/factions.md).
 
 
 
