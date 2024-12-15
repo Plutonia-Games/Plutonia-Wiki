@@ -8,6 +8,10 @@ description: Êtes-vous habile en saut ?
 
 Le JumpConquest est une structure située dans la WarZone. Votre objectif est simple : compléter un parcours de difficulté variable et casser 15 fois le bloc de verre situé à la fin du parcours.
 
+{% hint style="info" %}
+Utilisez la commande `/events` pour connaître les horaires de cet événement.
+{% endhint %}
+
 {% hint style="danger" %}
 * Le PvP étant actif, soyez vigilant face aux autres joueurs.
 * Après avoir cassé le bloc, vous serez expulsé de la structure.
