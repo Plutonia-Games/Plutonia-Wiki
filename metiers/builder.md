@@ -24,11 +24,15 @@ Pour progresser dans les niveaux facilement, <mark style="color:orange;">consult
 
 Au final, il vous faudra un total de <mark style="color:orange;">3 150 000 expériences</mark> pour terminer ce métier.
 
+Vous pouvez gagner de l'expérience de différentes manières, voici un tableau détaillant tout ce qui rapporte de l'expérience pour ce métier :
+
+<table><thead><tr><th>Action</th><th data-type="number">Expérience gagnée</th></tr></thead><tbody><tr><td>Placer des minerais</td><td>2</td></tr><tr><td>Placer des blocs</td><td>1</td></tr><tr><td>Créer un bloc de cave</td><td>10</td></tr><tr><td>Créer une table suprême</td><td>20</td></tr></tbody></table>
+
+
+
 ### Quels sont les récompenses ?
 
 Les récompenses augmentent du niveau <mark style="color:orange;">le plus bas au plus élevé en fonction des réalisations</mark>. Elles sont disponibles tous les 10 niveaux. Voici un tableau qui vous donne toutes les récompenses disponibles pour le métier de constructeur.
-
-
 
 | Niveau | Récompense                              |
 | ------ | --------------------------------------- |
