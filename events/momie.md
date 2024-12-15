@@ -1,5 +1,5 @@
 ---
-description: Une momie ? Comme dans les fils d'horreur ?
+description: Une momie ? Comme dans les films d'horreur ?
 ---
 
 # 🧟 Momie
