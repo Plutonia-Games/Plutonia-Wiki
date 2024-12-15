@@ -46,6 +46,6 @@ Veuillez faire attention à ce qu'il n'y ait pas de toit au dessus de la structu
 
 Une fois la structure réalisée, vous pouvez jeter au milieu de celle-ci votre gemme compressée. Vous devriez alors avoir une animation comme celle-ci :
 
-<figure><img src="../.gitbook/assets/m0IFQ0RqhK.gif" alt=""><figcaption><p>Réalisation d'un rituel</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/m0IFQ0RqhK.gif" alt="" width="375"><figcaption><p>Réalisation d'un rituel</p></figcaption></figure>
 
 🎉 Et voilà, après avoir accompli votre premier rituel, vous recevrez en récompense des pièces d'armure suprême, chacune enchantée par défaut avec `Protection 4`.
