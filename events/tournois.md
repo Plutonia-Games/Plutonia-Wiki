@@ -18,7 +18,7 @@ Le but est simple, <mark style="color:orange;">il vous faut gagner le tournoi</m
 
 
 
-### Mais comment j'invite mes coéquipiers lors d'un tournoi ?
+### Comment j'invite mes coéquipiers lors d'un tournoi ?
 
 Pas d'inquiétude ! Avant de les inviter, vous devrez <mark style="color:orange;">créer une équipe</mark> en utilisant la commande `/team create <nom>`. Ensuite, <mark style="color:orange;">vous pourrez les inviter</mark> grâce à la commande `/team invite <joueur>`. Vous pouvez consulter l'aide en effectuant la commande `/team`.
 
