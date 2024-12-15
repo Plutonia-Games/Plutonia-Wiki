@@ -32,7 +32,7 @@ Notez qu'il y a trois serveurs de minage à votre disposition, et les mondes dif
 
 Une fois connecté à un serveur de minage, vous aurez accès au kit `Outils`. <mark style="color:orange;">Ce kit est essentiel si vous n'avez pas encore fabriqué d'outils, et que vous êtes nouveau.</mark> Ce kit contient tous les outils nécessaires pour miner, ils sont fabriqués en obsidienne. Pour le récupérer, entrez juste la commande `/kit outils`.
 
-Pour commencer à miner, vous avez simplement à passer dans le portail en face de vous pour être téléporté aléatoirement. Pour voir toutes les commandes disponibles dans le monde `Minage`, veuillez vous référer à [cette section](../mondes/minage.md).
+Pour commencer à miner, vous avez simplement à passer dans le portail en face de vous pour être téléporté aléatoirement. Pour voir toutes les commandes disponibles dans le monde `Minage`, veuillez vous référer à [cette section](../mondes/minages.md).
 
 Après avoir terminé votre session de minage, utilisez la commande `/factions` pour accéder au monde `PvP/Factions` et commencer à créer votre base !
 
