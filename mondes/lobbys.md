@@ -18,7 +18,7 @@ Vous pouvez retourner sur un lobby grâce à la commande `/lobby`.
 
 Pour passer à un autre serveur, vous avez deux options :
 
-1. Effectuez un clic droit sur ![](../.gitbook/assets/nether_star.png) dans votre inventaire pour ouvrir la carte des serveurs.
+1. Effectuez un clic droit sur ![](../.gitbook/assets/nether_star.png) situé dans votre inventaire pour ouvrir la carte des serveurs.
 2. Avancez jusqu'au bout du lobby pour trouver différents PNJ (personnages non joueurs), où vous pouvez vous connecter en effectuant un clic droit sur le serveur de votre choix.
 
 Si vous choisissez l'`option 1`, une carte comme celle-ci s'ouvrira :
@@ -68,6 +68,12 @@ Accès aux cosmétiques suivants :
 * Ailes d'ange.
 {% endtab %}
 {% endtabs %}
+
+
+
+### Comment puis-je faire pour masquer les joueurs ?
+
+Question simple, réponse simple. Il vous faudra simplement effectuer un clic droit sur l'objet ![](../.gitbook/assets/dye_powder_lime.png) situé dans votre inventaire.
 
 
 
