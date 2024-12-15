@@ -36,7 +36,7 @@ Une fois toutes les orbes récupérées, il vous faudra réaliser une Gemme comp
 Vous pouvez retrouver toutes les différentes recettes dans le Wiki présent en jeu.
 {% endhint %}
 
-Il vous suffira alors de réaliser une structure comme celle ci-dessous, peut importe l'endroit sur la carte. Mais attention, il faut impérativement que ce soit réalisé sur le serveur Factions.
+Il vous suffira alors de réaliser une structure comme celle ci-dessous, peut importe l'endroit sur la carte. Mais attention, il faut impérativement que celle-ci soit réalisée sur le serveur Factions.
 
 <figure><img src="../.gitbook/assets/rituel.png" alt=""><figcaption><p>Structure du rituel</p></figcaption></figure>
 
