@@ -58,9 +58,9 @@
 * [🤑 Marché noir](events/marche-noir.md)
 * [🏃 BlockRush](events/blockrush.md)
 * [⚡ Totem](events/totem.md)
+* [📦 Largage](events/largage.md)
 * [⛰️ KoTH](events/koth.md)
 * [⚔️ Tournois](events/tournois.md)
-* [📦 Largage](events/largage.md)
 * [🩸 Rituel](events/rituel.md)
 
 ## Mondes
