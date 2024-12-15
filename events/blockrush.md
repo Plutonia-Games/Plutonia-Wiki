@@ -6,11 +6,11 @@ description: Un BlockRush, c'est quoi ?
 
 ### Quel est l'objectif ?
 
-L'objectif du BlockRush consiste à casser 6 blocs de quartz éparpillés dans la structure, avec l'aide de votre faction et d'une épée en obsidienne.
+L'objectif du BlockRush consiste à casser <mark style="color:orange;">6 blocs de quartz éparpillés dans la structure présente dans la WarZone</mark>, avec l'aide de votre faction et d'<mark style="color:orange;">une épée en obsidienne</mark>.
 
-Cependant, si une faction ennemie réussi à casser un bloc du BlockRush, celui-ci se régénère et bloque la faction précédente.
+Si une faction ennemie parvient à casser un bloc du BlockRush, celui-ci se régénère et bloque la faction précédente.
 
-Pour remporter l'événement, votre faction doit réussir à casser les 6 blocs de quartz sans être interrompue par les autres factions.
+Pour remporter l'événement, votre faction doit réussir à casser les <mark style="color:orange;">6 blocs de quartz</mark> sans être interrompue par les <mark style="color:orange;">autres factions</mark>.
 
 {% hint style="info" %}
 Utilisez la commande `/events` pour connaître les horaires de cet événement.
