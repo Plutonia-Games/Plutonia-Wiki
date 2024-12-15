@@ -6,7 +6,7 @@ description: Un marché noir, c'est quoi ?
 
 ### Qu'est-ce que le marché noir ?
 
-Le marché noir, un PNJ (personnage non joueur), apparaît aléatoirement dans l'une des quatre bâtisses de la WarZone.
+Le marché noir est un PNJ (personnage non joueur), qui apparaît aléatoirement dans l'une des quatre bâtisses de la WarZone.
 
 {% hint style="info" %}
 Utilisez la commande `/events` pour connaître les horaires de cet événement.
