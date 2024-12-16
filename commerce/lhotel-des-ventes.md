@@ -41,7 +41,8 @@ Pour mettre un article en vente, utilisez simplement la commande `/auction sell`
 Il vous suffira alors de rentrer le montant, le mode de paiement (dollars, ou points boutiques), ainsi que la quantité que vous souhaitez mettre en vente.
 
 {% hint style="warning" %}
-Une taxe de 5% est appliqué à tous les articles mis en vente, que ce soit en points boutiques, ou en dollars.
+* Une taxe de 5% est appliqué à tous les articles mis en vente, que ce soit en points boutiques, ou en dollars.
+* La limite maximale des objets mis en vente est fixée par défaut à 5. Veuillez obtenir un grade pour augmenter cette limite.
 {% endhint %}
 
 🎉 Et voilà, une fois que tout est prêt, vous n'avez qu'à cliquer sur le bouton `Vendre` pour que votre offre apparaisse pour tout le monde.
