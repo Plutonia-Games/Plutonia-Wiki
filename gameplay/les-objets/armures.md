@@ -24,4 +24,8 @@ description: Envie de connaitre les nouvelles armures ?
 {% tab title="Plutonium" %}
 
 {% endtab %}
+
+{% tab title="Suprême" %}
+
+{% endtab %}
 {% endtabs %}
