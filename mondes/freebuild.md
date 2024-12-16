@@ -5,7 +5,7 @@ description: Une créativité sans limites ?
 # ⛰️ Freebuild
 
 {% hint style="info" %}
-Pour accéder à notre carte interactif, veuillez suivre [ce lien](https://freebuild.plutonia-mc.fr/).
+Pour accéder à notre carte interactive, veuillez suivre [ce lien](https://freebuild.plutonia-mc.fr/).
 {% endhint %}
 
 ### Mais à quoi cela sert ?
