@@ -46,7 +46,7 @@
 
 ## Métiers
 
-* [🚧 Builder](metiers/builder.md)
+* [🚧 Constructeur](metiers/constructeur.md)
 * [🧑‍🌾 Fermier](metiers/fermier.md)
 * [⚔️ Chasseur](metiers/chasseur.md)
 * [⛏️ Mineur](metiers/mineur.md)

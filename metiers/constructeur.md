@@ -1,8 +1,8 @@
 ---
-description: Un constructeur dans l'âme ?
+description: Un maçon dans l'âme ?
 ---
 
-# 🚧 Builder
+# 🚧 Constructeur
 
 {% hint style="info" %}
 Vous pouvez accéder à l'interface des métiers grâce à la commande suivante : `/job`.
