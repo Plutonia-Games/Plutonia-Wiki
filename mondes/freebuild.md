@@ -56,6 +56,7 @@ Voici la liste des commandes principales qui sont disponibles :
 | //rotate \[angle]                               | Permet de tourner une région copiée.                                             |
 | //up \[distance]                                | Permet de monter à une hauteur souhaitée.                                        |
 | //undo                                          | Permet d'annuler l'action précédente.                                            |
+| /teleport \[joueur]                             | Permet de se téléporter à un joueur.                                             |
 
 {% hint style="info" %}
 * Pour charger une schématique sur le serveur `Freebuild`, veuillez visiter [cette page](https://schematics.plutonia-mc.fr/), et suivre les instructions.
