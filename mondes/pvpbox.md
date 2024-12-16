@@ -6,24 +6,27 @@ description: J'aime pas m'entrainer...
 
 ### Mais à quoi cela sert ?
 
-Nous avons décidé d'héberger le `Casino` sur un serveur entièrement indépendant. Cela garantit une expérience fluide à travers tous nos services.
+Nous avons décidé de créer un serveur `PvPBox` pour permettre à tout le monde de s'entraîner. Ce serveur comprend un système de classement en fonction des joueurs que vous avez tués. Profitez de classes spécialement conçues pour le PvP, afin que tout le monde s'amuse !
 
-Ce serveur est l'entre du banquier en sueur, tout est similaire à un vrai casino. Vous pouvez retrouver de nombreux jeux populaires comme la roulette, le crash, le pile ou face, et bien d'autres !
-
-<mark style="color:orange;">Cependant, il est important de se rappeler que ce serveur fonctionne indépendamment du serveur factions, même si les inventaires, les économies, le chat, les quêtes et les métiers sont liés.</mark>
+<mark style="color:orange;">Sur ce serveur tout est indépendant des autres serveurs.</mark>
 
 {% hint style="info" %}
-Vous pouvez aller sur ce serveur grâce à la commande `/casino`.
+Vous pouvez aller sur ce serveur grâce à la commande `/pvpbox`.
 {% endhint %}
 
 
 
 ### Mais quelles sont les commandes disponibles ?
 
-<mark style="color:orange;">Les commandes disponibles sur ce serveur sont similaires à celles du serveur factions.</mark> Les fonctionnalités telles que l'hôtel des ventes, le magasin du serveur et la gestion des factions ne sont pas disponibles. Pour consulter les commandes du serveur factions, veuillez consulter [cette section](../gameplay/les-classements/factions.md).&#x20;
+<mark style="color:orange;">Les commandes disponibles sur ce serveur sont très limitées</mark>, voici la liste des commandes disponibles sur ce serveur :
 
-Vous avez cependant accès à la commande `/bet` pour voir les différents jeux présents.
+| Commande | Description                            |
+| -------- | -------------------------------------- |
+| /kit     | Permet de choisir un kit par défaut.   |
+| /kdr     | Permet de voir vos statistiques.       |
+| /ct      | Permet de voir si vous êtes en combat. |
+| /spawn   | Permet de retourner au spawn.          |
 
 
 
-🎉 Et voilà, vous en savez désormais plus sur le `Casino` de Plutonia.
+🎉 Et voilà, vous en savez désormais plus sur le `PvPBox` de Plutonia.

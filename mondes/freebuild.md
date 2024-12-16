@@ -12,7 +12,7 @@ Pour accéder à notre carte interactive, veuillez suivre [ce lien](https://free
 
 Nous avons décidé de créer un serveur `Freebuild` pour permettre à tout le monde de pouvoir créer des constructions, et ce, sans limite. Le serveur restera inchangé et ne subira aucun reset tout au long de sa durée de vie. <mark style="color:orange;">Vos constructions sont en lieu sûr !</mark>
 
-Sur ce serveur tout est indépendant des autres serveurs.
+<mark style="color:orange;">Sur ce serveur tout est indépendant des autres serveurs.</mark>
 
 {% hint style="info" %}
 Vous pouvez aller sur ce serveur grâce à la commande `/freebuild`.
@@ -24,7 +24,7 @@ Vous pouvez aller sur ce serveur grâce à la commande `/freebuild`.
 
 <mark style="color:orange;">Les commandes disponibles sur ce serveur sont très complètes !</mark>
 
-Voici la liste des commandes essentielles qui sont disponibles :
+Voici la liste des commandes principales qui sont disponibles :
 
 | Commande                                        | Description                                                                      |
 | ----------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -58,7 +58,8 @@ Voici la liste des commandes essentielles qui sont disponibles :
 | //undo                                          | Permet d'annuler l'action précédente.                                            |
 
 {% hint style="info" %}
-Pour charger une schématique sur le serveur `Freebuild`, veuillez visiter [cette page](https://schematics.plutonia-mc.fr/), et suivre les instructions.
+* Pour charger une schématique sur le serveur `Freebuild`, veuillez visiter [cette page](https://schematics.plutonia-mc.fr/), et suivre les instructions.
+* Avoir un grade vous permet d'étendre vos constructions grâce à la commande `/plot merge`. Pour savoir quel grade en bénéficie, veuillez vous renseigner sur [notre boutique](https://plutonia-mc.fr/shop/categories/grades).
 {% endhint %}
 
 
