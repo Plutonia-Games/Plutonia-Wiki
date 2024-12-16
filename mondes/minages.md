@@ -2,7 +2,7 @@
 description: Miner à l'infini, ça me semble juste !
 ---
 
-# ⛏️ Minage
+# ⛏️ Minages
 
 ### Mais à quoi cela sert ?
 
@@ -18,7 +18,7 @@ Pour partir miner, une fois connecté, il vous faudra passer dans le portail qui
 
 ### Mais quelles sont les commandes disponibles ?
 
-<mark style="color:orange;">Les commandes disponibles sur ce serveur sont similaires à celles du serveur factions.</mark> Les fonctionnalités telles que l'hôtel des ventes, le magasin du serveur et la gestion des factions ne sont pas disponibles. Pour consulter les commandes du serveur factions, veuillez consulter [cette section](../gameplay/les-classements/factions.md). Cependant, vous avez accès à la commande `/kit outils`, qui vous permet d'obtenir des outils en obsidienne pour miner. ce kit à un délais de 30 minutes.
+<mark style="color:orange;">Les commandes disponibles sur ce serveur sont similaires à celles du serveur factions.</mark> Les fonctionnalités telles que l'hôtel des ventes, le magasin du serveur et la gestion des factions ne sont pas disponibles. Pour consulter les commandes du serveur factions, veuillez consulter [cette section](factions.md). Cependant, vous avez accès à la commande `/kit outils`, qui vous permet d'obtenir des outils en obsidienne pour miner. ce kit à un délais de 30 minutes.
 
 
 
