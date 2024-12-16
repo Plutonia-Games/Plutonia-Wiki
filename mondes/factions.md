@@ -18,16 +18,20 @@ Tutoriel pour apprendre le mode de jeu Factions
 
 ### Quelles sont les spécificités du serveur ?
 
-Il faut savoir que la carte du serveur fait $$20000×20000$$ blocs, ce qui en fait une grande carte pour créer sa base.Il est aussi important de savoir qu'aucun minerai moddé n'apparaît sur ce serveur, ceci afin d'éviter tout contournement de notre anti-cheat.
+Il faut savoir que la carte du serveur fait $$20000×20000$$ blocs, ce qui en fait une grande carte pour créer sa base. <mark style="color:orange;">Il est aussi important de savoir qu'aucun minerai moddé n'apparaît sur ce serveur, ceci afin d'éviter tout contournement de notre anti-cheat.</mark>
 
 
 
 ### Mais quels sont les commandes ?
 
-Les commandes disponibles sur ce serveur sont très complètes, voici la liste des commandes disponibles sur ce serveur :
+Les commandes disponibles sur ce serveur sont <mark style="color:orange;">très complètes</mark>, voici la liste des commandes disponibles sur ce serveur :
 
 | Commande | Description |
 | -------- | ----------- |
 |          |             |
 |          |             |
 |          |             |
+
+{% hint style="info" %}
+Certaines des commandes ne sont disponibles qu'avec l'achat d'un grade, veuillez donc vous renseigner des avantages sur [notre boutique](https://plutonia-mc.fr/shop).
+{% endhint %}
