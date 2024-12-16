@@ -32,7 +32,7 @@ Voici la liste des commandes essentielles qui sont disponibles :
 | /plot auto \[largeur, longueur]                 | Vous permet de revendiquer une parcelle aléatoire.                               |
 | /plot visit \[joueur]                           | Permet de vous téléporter à la parcelle d'un joueur.                             |
 | /plot kick \[joueur]                            | Excluez un joueur de votre parcelle.                                             |
-| /plot middle                                    | Vous vous téléportez au centre de votre parcelle.                                |
+| /plot middle                                    | Vous permet de vous téléporter au centre de la parcelle.                         |
 | /plot trust \[joueur]                           | Autorise un joueur à construire sur votre parcelle lorsque vous êtes déconnecté. |
 | /plot add \[joueur]                             | Autorise un joueur à construire sur votre parcelle lorsque vous êtes connecté.   |
 | /plot deny \[joueur]                            | Interdire à un joueur d'entrer dans votre parcelle.                              |
