@@ -78,7 +78,7 @@
 
 * [📪 Macros](mods/macros.md)
 * [⚔️ CombatMod](mods/combatmod.md)
-* [🖱️ Autoclique](mods/autoclique.md)
+* [🖱️ Autoclic](mods/autoclic.md)
 * [🧭 Waypoints](mods/waypoints.md)
 * [🏃‍♂️ ToggleSneak](mods/togglesneak.md)
 * [✍️ TabbyChat](mods/tabbychat.md)
