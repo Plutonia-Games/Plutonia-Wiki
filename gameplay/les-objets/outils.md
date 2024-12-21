@@ -4,6 +4,8 @@ description: Envie de connaitre les nouveaux outils ?
 
 # ⛏️ Outils
 
+Le serveur possède de nouveaux outils, vous pouvez les retrouver dans le tableau ci-dessous.
+
 {% tabs %}
 {% tab title="Obsidienne" %}
 

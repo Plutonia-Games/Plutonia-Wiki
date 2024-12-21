@@ -4,6 +4,8 @@ description: Envie de connaitre les nouvelles armes ?
 
 # 🔪 Armes
 
+Le serveur possède de nouvelles armes, vous pouvez les retrouver dans le tableau ci-dessous.
+
 {% tabs %}
 {% tab title="Épée en obsidienne" %}
 

@@ -4,6 +4,8 @@ description: Envie de connaitre les nouvelles armures ?
 
 # 🤺 Armures
 
+Le serveur possède de nouvelles armures, vous pouvez les retrouver dans le tableau ci-dessous.
+
 {% tabs %}
 {% tab title="Obsidienne" %}
 

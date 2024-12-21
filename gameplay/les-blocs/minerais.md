@@ -4,6 +4,10 @@ description: Envie de découvrir les nouveaux minerais ?
 
 # 💎 Minerais
 
+Le serveur possède de nouveaux minerais, vous pouvez les retrouver dans les tableaux ci-dessous.
+
+
+
 ### Les différents minerais :
 
 {% tabs %}
