@@ -40,7 +40,7 @@ Téléchargez le lanceur, et déplacez-le sur votre bureau.
 
 Veuillez vous assurer d'avoir `libfuse2` d'installé. Si ce n'est pas le cas, vous pouvez l'installer avec la commande suivante : `apt install libfuse2`.
 
-Une fois installé, veuillez faire un clic droit sur le fichier `Plutonia-linux-x86_64.AppImage` téléchargé, puis d'aller dans les propriétés. Il vous suffira de le rendre exécutable en cochant l'option `Exécutable comme programme`.
+Une fois installé, veuillez faire un clic droit sur le fichier `Plutonia-linux-x86_64.AppImage` téléchargé, puis allez dans les propriétés de ce fichier. Rendez le exécutable en cochant l'option `Exécutable comme programme`.
 
 ✔️ Il vous suffira alors simplement d'effectuer un double clic dessus pour le lancer.
 
