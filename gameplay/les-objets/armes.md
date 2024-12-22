@@ -114,7 +114,7 @@ L'épée en plutonium peut être créée en suivant le pattern ci-dessous :&#x20
 {% tab title="Épée suprême" %}
 L'épée suprême est une arme créée par Plutonia. Elle est plus puissante que l'épée en plutonium.
 
-Les caractéristiques de l'épée en plutonium sont les suivantes : \
+Les caractéristiques de l'épée suprême sont les suivantes : \
 &#x20;     \- Durabilité : <mark style="color:orange;">**5000**</mark>\
 &#x20;     \- Dégâts : <mark style="color:orange;">**+13**</mark>
 
