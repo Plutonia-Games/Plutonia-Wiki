@@ -18,7 +18,7 @@ La potion d'anti-chute est une potion spéciale disponible dans le kit alchimist
 {% endtab %}
 
 {% tab title="Potion d'intuition" %}
-La potion de lait est une potion spéciale disponible dans le kit alchimiste, achetable dans [notre boutique](https://plutonia-mc.fr/shop/categories/kits). Elle permet de voir les joueurs invisibles. Celle-ci est réalisable comme dans l'image ci-dessous.
+La potion d'intuition est une potion spéciale disponible dans le kit alchimiste, achetable dans [notre boutique](https://plutonia-mc.fr/shop/categories/kits). Elle permet de voir les joueurs invisibles. Celle-ci est réalisable comme dans l'image ci-dessous.
 
 <figure><img src="../../.gitbook/assets/L2sFYIlgfs.png" alt=""><figcaption><p>Recette de la potion d'intuition</p></figcaption></figure>
 

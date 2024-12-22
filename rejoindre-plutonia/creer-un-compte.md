@@ -36,17 +36,14 @@ L'e-mail devrait ressembler à celui-ci :
 Il vous suffit simplement de cliquer sur le bouton `Vérifier l'adresse e-mail` pour confirmer votre inscription.
 
 {% hint style="danger" %}
-Plutonia ne vous demandera jamais, sous aucun prétexte, de vous connecter via un lien reçu par e-mail ou de partager vos informations de connexion.\
-Si vous recevez un e-mail prétendant venir de **Plutonia** vous demandant de vous connecter ou de fournir vos informations personnelles :
+Plutonia ne vous demandera jamais, sous aucun prétexte, de vous connecter via un lien reçu par e-mail ou de partager vos informations de connexion. Si vous recevez un e-mail prétendant venir de **Plutonia** vous demandant de vous connecter ou de fournir vos informations personnelles :
 
-1️⃣ **Ne cliquez pas sur les liens dans cet e-mail.**\
-2️⃣ **Ne répondez pas à cet e-mail.**\
-3️⃣ **Signalez-le immédiatement à notre service support** en ouvrant un ticket sur notre discord.
+* **Ne cliquez pas sur les liens dans cet e-mail.**
+* **Ne répondez pas à cet e-mail.**
+* S**ignalez-le immédiatement à notre service support** en ouvrant un ticket sur notre discord.
 
 Restez vigilant et si vous avez le moindre doute, contactez-nous directement.
 {% endhint %}
-
-
 
 
 
