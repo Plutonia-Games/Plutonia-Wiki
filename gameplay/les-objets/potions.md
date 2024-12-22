@@ -6,15 +6,13 @@ description: Envie de connaitre les nouvelles potions ?
 
 Le serveur possède de nouvelles potions, vous pouvez les retrouver dans le tableau ci-dessous.
 
-
-
 {% tabs %}
 {% tab title="Potion de lait" %}
 La potion de lait est une potion spéciale disponible exclusivement dans le kit alchimiste, achetable dans [notre boutique](https://plutonia-mc.fr/shop/categories/kits). Elle neutralise tous les effets négatifs, comme le poison, la lenteur et la faiblesse.
 {% endtab %}
 
 {% tab title="Potion d'anti-chute" %}
-La potion de lait est une potion spéciale disponible dans le kit alchimiste, achetable dans [notre boutique](https://plutonia-mc.fr/shop/categories/kits). Elle permet de ne prendre aucun dégât de chute. Celle-ci est réalisable comme dans la vidéo ci-dessous.
+La potion d'anti-chute est une potion spéciale disponible dans le kit alchimiste, achetable dans [notre boutique](https://plutonia-mc.fr/shop/categories/kits). Elle permet de ne prendre aucun dégât de chute. Celle-ci peut également être fabriquées directement en jeu comme dans la vidéo ci-dessous.
 
 <figure><img src="../../.gitbook/assets/C6RrtjkSQd.gif" alt=""><figcaption><p>Recette de la potion d’anti-chute</p></figcaption></figure>
 {% endtab %}

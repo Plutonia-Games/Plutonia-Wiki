@@ -4,15 +4,15 @@ description: Avez-vous des questions par rapport au serveur ?
 
 # ⁉️ FAQ
 
-### <mark style="color:orange;">➤ Plutonia est gratuit ?</mark>
+### <mark style="color:orange;">➤ Plutonia est-il gratuit ?</mark>
 
-Oui, Plutonia est totalement gratuit. Vous pouvez venir jouer avec vos amis et combattre vos ennemis.
+Oui, Plutonia est totalement gratuit. Vous pouvez venir jouer avec vos amis et combattre vos ennemis gratuitement.
 
 
 
 ### <mark style="color:orange;">➤ Comment rejoindre Plutonia ?</mark>
 
-Pour rejoindre Plutonia, vous devrez vous munir de notre launcher, qui est obligatoire pour profiter de tous nos nouveaux ajouts.
+Pour rejoindre Plutonia, vous télécharger notre launcher, qui est obligatoire pour profiter pleinement de l'ensemble des fonctionnalités du serveur.
 
 
 
@@ -32,23 +32,21 @@ Pour ce faire, veuillez vous connecter sur votre compte sur notre [site internet
 
 ### <mark style="color:orange;">➤ J'ai trouvé un bug, que dois-je faire ?</mark>
 
-Si vous avez trouvé un bug, nous vous invitons à le signaler sur notre [serveur Discord](https://discord.gg/plutonia) en créant un ticket.
+Si vous avez trouvé un bug, nous vous invitons à le signaler sur notre [serveur Discord](https://discord.gg/plutonia) en créant un ticket dans le salon associé.
 
 
 
 ### <mark style="color:orange;">➤ Mon compte a été piraté, que puis-je faire ?</mark>
 
-Si votre compte a subi une intrusion, nous vous recommandons de nous contacter sur notre [serveur Discord](https://discord.gg/plutonia) en créant un ticket.
+Si votre compte a subi une intrusion, nous vous recommandons de nous contacter sur notre [serveur Discord](https://discord.gg/plutonia) en créant un ticket dans le salon associé.
 
-Les remboursements seront limités à ce que nous pouvons récupérer, car la sécurité de votre compte dépend de vous. De nombreux outils sont à votre disposition pour le protéger, comme l'authentification à deux facteurs.
+Les remboursements seront limités à ce que nous pouvons récupérer. En effet, vous êtes garant de la sécurité de votre compte. De nombreux outils sont à votre disposition pour le protéger, comme l'authentification à deux facteurs.
 
 
 
 ### <mark style="color:orange;">➤ Pourquoi le serveur prend du temps à redémarrer ?</mark>
 
-Il redémarre automatiquement à 6h du matin, une procédure qui peut durer jusqu'à 30 minutes.
-
-Le serveur effectue une sauvegarde complète, ce qui permettrait de récupérer toutes les données en cas de panne ou de piratage.&#x20;
+Le serveur effectue une sauvegarde complète chaque jour à 6h du matin. Cette action nécessite un redémarrage de celui-ci pouvant aller jusqu'à 30 minutes. Cette action et vitale car elle nous permettrait de récupérer l'ensemble des données en cas de panne ou de piratage.&#x20;
 
 
 
@@ -68,6 +66,6 @@ Conformément à nos conditions générales, une fois que les crédits sont cré
 
 ### <mark style="color:orange;">➤ Comment rejoindre l'équipe de Plutonia ?</mark>
 
-Pour intégrer notre équipe, veuillez soumettre votre candidature sur [notre forum](https://forum.plutonia-mc.fr/forums/13/) en utilisant les modèles fournis.
+Pour intégrer notre équipe, veuillez soumettre votre candidature sur [notre forum](https://forum.plutonia-mc.fr/forums/13/) en utilisant les modèles mis à votre disposition.
 
 Les candidatures ne respectant pas le modèle ne seront pas acceptées.

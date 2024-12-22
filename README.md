@@ -23,7 +23,7 @@ Fondé en 2014, Plutonia est un serveur Minecraft PvP/Factions, basé sur la ver
 
 
 
-<mark style="color:orange;">➤ Le serveur est totalement gratuit d'accès.</mark>
+<mark style="color:orange;">➤ L'accès au serveur est totalement gratuit.</mark>
 
 <mark style="color:orange;">➤ Nous proposons une expérience unique grâce à de nombreux ajouts exclusifs.</mark>
 

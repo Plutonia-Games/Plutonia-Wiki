@@ -6,7 +6,7 @@ description: Envie de découvrir nos quêtes ?
 
 Curieux de savoir l'utilité de nos quêtes ou comment elles fonctionnent ? Vous êtes au bon endroit !
 
-Nos quêtes sont conçues dès le départ pour être des succès, c'est-à-dire qu'elles ne soient pas trop difficiles à terminer, et qu'elles ne soient pas banales comme sur la plupart des serveurs. Vous avez accès à plus de 300 quêtes, toutes différentes, et plus ou moins faciles à réaliser.
+Nos quêtes sont conçues dès le départ pour être des succès, c'est-à-dire qu'elles ne soient pas trop difficiles à terminer et différentes de ce que vous avez l'habitude de voir. Vous avez accès à plus de 300 quêtes, toutes différentes, et plus ou moins faciles à réaliser.
 
 Notre plugin assure la synchronisation des quêtes sur tous les serveurs, permettant leur progression, quel que soit le serveur sur lequel vous vous trouvez.
 
