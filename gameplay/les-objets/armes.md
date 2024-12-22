@@ -14,7 +14,7 @@ Les caractéristiques de l'épée en obsidienne sont les suivantes : \
 &#x20;     \- Durabilité : <mark style="color:orange;">**2000**</mark>\
 &#x20;     \- Dégâts : <mark style="color:orange;">**+7**</mark>
 
-Les ingrédients nécessaires à la réalisation de l'épée en obsidienne sont les suivants :\
+Les ingrédients nécessaires à sa réalisation sont les suivants :\
 &#x20;     \- <mark style="color:orange;">**Lingot d'obsidienne (x2)**</mark>\
 &#x20;     \- <mark style="color:orange;">**Bâton (x1)**</mark>
 
@@ -22,7 +22,7 @@ L'épée en obsidienne peut être créée en suivant le pattern ci-dessous :&#x2
 
 <figure><img src="../../.gitbook/assets/java_k4YQydrzTN.png" alt="" width="359"><figcaption><p>Recette de l'épée en obsidienne</p></figcaption></figure>
 
-L'épée en obsidienne est également disponible dans le kit guerrier sur le serveur faction via la commande `/kit guerrier` .
+L'épée en obsidienne est également disponible dans le kit guerrier sur le serveur factions via la commande `/kit guerrier` .
 {% endtab %}
 
 {% tab title="Épée en titane" %}
@@ -32,7 +32,7 @@ Les caractéristiques de l'épée en titane sont les suivantes : \
 &#x20;     \- Durabilité : <mark style="color:orange;">**2500**</mark>\
 &#x20;     \- Dégâts : <mark style="color:orange;">**+8**</mark>
 
-Les ingrédients nécessaires à la réalisation de l'épée en titane sont les suivants :\
+Les ingrédients nécessaires à sa réalisation sont les suivants :\
 &#x20;     \- <mark style="color:orange;">**Titane (x2)**</mark>\
 &#x20;     \- <mark style="color:orange;">**Bâton (x1)**</mark>
 
@@ -50,7 +50,7 @@ Les caractéristiques de l'épée en topaze sont les suivantes : \
 &#x20;     \- Durabilité : <mark style="color:orange;">**3000**</mark>\
 &#x20;     \- Dégâts : <mark style="color:orange;">**+9**</mark>
 
-Les ingrédients nécessaires à la réalisation de l'épée en topaze sont les suivants :\
+Les ingrédients nécessaires à sa réalisation sont les suivants :\
 &#x20;     \- <mark style="color:orange;">**Topaze (x2)**</mark>\
 &#x20;     \- <mark style="color:orange;">**Bâton (x1)**</mark>
 
@@ -68,7 +68,7 @@ Les caractéristiques de l'épée en mercure sont les suivantes : \
 &#x20;     \- Durabilité : <mark style="color:orange;">**3500**</mark>\
 &#x20;     \- Dégâts : <mark style="color:orange;">**+10**</mark>
 
-Les ingrédients nécessaires à la réalisation de l'épée en mercure sont les suivants :\
+Les ingrédients nécessaires à sa réalisation sont les suivants :\
 &#x20;     \- <mark style="color:orange;">**Mercure (x2)**</mark>\
 &#x20;     \- <mark style="color:orange;">**Bâton (x1)**</mark>
 
@@ -86,7 +86,7 @@ Les caractéristiques de la hache de combat sont les suivantes : \
 &#x20;     \- Durabilité : <mark style="color:orange;">**4500**</mark>\
 &#x20;     \- Dégâts : <mark style="color:orange;">**+11**</mark>
 
-Les ingrédients nécessaires à la réalisation de la hache de combat sont les suivants :\
+Les ingrédients nécessaires à sa réalisation sont les suivants :\
 &#x20;     \- <mark style="color:orange;">**Bloc de fer raffiné (x5)**</mark>\
 &#x20;     \- <mark style="color:orange;">**Bâton en mercure (x1)**</mark>
 
@@ -96,13 +96,13 @@ La hache de combat peut être créée en suivant le pattern ci-dessous :&#x20;
 {% endtab %}
 
 {% tab title="Épée en plutonium" %}
-L'épée en plutonium est une arme créée par Plutonia. Elle est plus puissante que l'épée en mercure.
+L'épée en plutonium est une arme créée par Plutonia. Elle est plus puissante que la hache de combat.
 
-Les caractéristiques de l'épée suprême sont les suivantes : \
+Les caractéristiques de l'épée en plutonium sont les suivantes : \
 &#x20;     \- Durabilité : <mark style="color:orange;">**4000**</mark>\
 &#x20;     \- Dégâts : <mark style="color:orange;">**+12**</mark>
 
-Les ingrédients nécessaires à la réalisation de l'épée en plutonium sont les suivants :\
+Les ingrédients nécessaires à sa réalisation sont les suivants :\
 &#x20;     \- <mark style="color:orange;">**Lingot de plutonium (x2)**</mark>\
 &#x20;     \- <mark style="color:orange;">**Bâton (x1)**</mark>
 
@@ -112,13 +112,13 @@ L'épée en plutonium peut être créée en suivant le pattern ci-dessous :&#x20
 {% endtab %}
 
 {% tab title="Épée suprême" %}
-L'épée en plutonium est une arme créée par Plutonia. Elle est plus puissante que la hache de combat.
+L'épée suprême est une arme créée par Plutonia. Elle est plus puissante que l'épée en plutonium.
 
 Les caractéristiques de l'épée en plutonium sont les suivantes : \
 &#x20;     \- Durabilité : <mark style="color:orange;">**5000**</mark>\
 &#x20;     \- Dégâts : <mark style="color:orange;">**+13**</mark>
 
-Les ingrédients nécessaires à la réalisation de l'épée suprême sont les suivants :\
+Les ingrédients nécessaires à sa réalisation sont les suivants :\
 &#x20;     \- <mark style="color:orange;">**Bloc de plutonium (x1)**</mark>\
 &#x20;     \- <mark style="color:orange;">**Bloc d'obsidienne (x12)**</mark>\
 &#x20;     \- <mark style="color:orange;">**Plutonium (x10)**</mark>\
