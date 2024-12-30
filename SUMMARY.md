@@ -13,7 +13,8 @@
 ## Gameplay
 
 * [🪃 Les objets](gameplay/les-objets/README.md)
-  * [🔪 Armes](gameplay/les-objets/armes.md)
+  * [🔪 Épées](gameplay/les-objets/epees.md)
+  * [🏹 Arcs](gameplay/les-objets/arcs.md)
   * [🤺 Armures](gameplay/les-objets/armures.md)
   * [⛏️ Outils](gameplay/les-objets/outils.md)
   * [🍔 Nourritures](gameplay/les-objets/nourritures.md)

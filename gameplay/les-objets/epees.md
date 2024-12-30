@@ -1,10 +1,10 @@
 ---
-description: Envie de connaitre les nouvelles armes ?
+description: Envie de connaitre les nouvelles épées ?
 ---
 
-# 🔪 Armes
+# 🔪 Épées
 
-Le serveur possède de nouvelles armes, vous pouvez les retrouver dans le tableau ci-dessous.
+Le serveur possède de nouvelles épées, vous pouvez les retrouver dans le tableau ci-dessous.
 
 {% tabs %}
 {% tab title="Épée en obsidienne" %}
