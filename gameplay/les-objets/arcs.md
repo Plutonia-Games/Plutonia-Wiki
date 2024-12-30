@@ -88,7 +88,7 @@ L'arc en plutonium peut être créé en suivant le pattern ci-dessous :&#x20;
 {% endtab %}
 
 {% tab title="L'arc suprême" %}
-L'arc suprême est une arme à distance unique créée par Plutonia. Cet arc est plus résistant que tous les autres arcs disponibles et permet de se téléporter sur le mob ou joueur touché par votre flèche.
+L'arc suprême est une arme à distance unique créée par Plutonia. Cet arc est plus résistant que tous les autres arcs disponibles et permet de se téléporter sur le monstre / joueur touché par votre flèche.
 
 Les caractéristiques de cet arc sont les suivantes : \
 &#x20;     \- Durabilité : <mark style="color:orange;">**3000**</mark>\
