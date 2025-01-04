@@ -59,7 +59,6 @@ Voici la liste des commandes principales qui sont disponibles :
 | /teleport \[joueur]                             | Permet de se téléporter à un joueur.                                             |
 
 {% hint style="info" %}
-* Pour charger une schématique sur le serveur `Freebuild`, veuillez visiter [cette page](https://schematics.plutonia-mc.fr/), et suivre les instructions.
 * Avoir un grade vous permet d'étendre vos constructions grâce à la commande `/plot merge`. Pour savoir quel grade en bénéficie, veuillez vous renseigner sur [notre boutique](https://plutonia-mc.fr/shop/categories/grades).
 {% endhint %}
 
