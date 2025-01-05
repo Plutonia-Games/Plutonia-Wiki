@@ -8,67 +8,39 @@ Le serveur possède de nouvelles armures, vous pouvez les retrouver dans le tabl
 
 {% tabs %}
 {% tab title="Obsidienne" %}
-L'armure en obsidienne est une armure créée par Plutonia. Elle est plus résistante que l'armure en diamant de Minecraft
+## Casque : ![](../../.gitbook/assets/obsidian_helmet.png)
+
+Durabilité : <mark style="color:orange;">550</mark>
+
+Puissance : <mark style="color:orange;">1 / 6</mark>
 
 
 
-Les ingrédients nécessaires à sa réalisation complète sont les suivants :&#x20;
+## Plastron : ![](../../.gitbook/assets/obsidian_chestplate.png)
 
-* _<mark style="color:orange;">**Lingot d'obsidienne (x23)**</mark>_
+Durabilité : <mark style="color:orange;">800</mark>
 
-***
-
-
-
-**Casque :**&#x20;
-
-<div align="left"><figure><img src="../../.gitbook/assets/{4623BA84-AEC1-4B3A-B37C-1E826B14D480}.png" alt="" width="266"><figcaption><p>Recette du casque</p></figcaption></figure></div>
-
-* Durabilité : _<mark style="color:orange;">**550**</mark>_
-* Résistance : _<mark style="color:orange;">**+??**</mark>_
-
-***
+Puissance : <mark style="color:orange;">1 / 6</mark>
 
 
 
-**Plastron :**&#x20;
+## Jambières : ![](../../.gitbook/assets/obsidian_leggings.png)
 
-<div align="left"><figure><img src="../../.gitbook/assets/{6391BE60-5E34-467E-891F-E412EA8B9287}.png" alt="" width="268"><figcaption><p>Recette du plastron</p></figcaption></figure></div>
+Durabilité : <mark style="color:orange;">750</mark>
 
-* Durabilité : _<mark style="color:orange;">**800**</mark>_
-* Résistance : _<mark style="color:orange;">**+??**</mark>_
-
-***
+Puissance : <mark style="color:orange;">1 / 6</mark>
 
 
 
-**Jambières :**&#x20;
+## Bottes : ![](../../.gitbook/assets/obsidian_boots.png)
 
-<div align="left"><figure><img src="../../.gitbook/assets/{7357A9A9-3E6D-4826-AD6B-9D7F47FF3EB6}.png" alt="" width="267"><figcaption><p>Recette des jambières</p></figcaption></figure></div>
+Durabilité : <mark style="color:orange;">650</mark>
 
-* Durabilité : _<mark style="color:orange;">**750**</mark>_
-* Résistance : _<mark style="color:orange;">**+??**</mark>_
-
-***
-
-
-
-**Bottes :**&#x20;
-
-<div align="left"><figure><img src="../../.gitbook/assets/{6A9C783A-B094-45EB-9D48-2591D2B451B9}.png" alt="" width="267"><figcaption><p>Recette des bottes</p></figcaption></figure></div>
-
-* Durabilité : _<mark style="color:orange;">**650**</mark>_
-* Résistance : _<mark style="color:orange;">**+??**</mark>_
-
-***
-
-
-
-Cette armure est également disponible dans le kit guerrier et paladin sur le serveur factions via la commande `/kit guerrier` `ou /kit paladin`.
+Puissance : <mark style="color:orange;">1 / 6</mark>
 {% endtab %}
 
 {% tab title="Titane" %}
-\<u>Casque :\</u> ![](../../.gitbook/assets/titane_helmet.png)
+## Casque : ![](../../.gitbook/assets/titane_helmet.png)
 
 Durabilité : <mark style="color:orange;">660</mark>
 
@@ -76,7 +48,7 @@ Puissance : <mark style="color:orange;">2 / 6</mark>
 
 
 
-Plastron : ![](../../.gitbook/assets/titane_chestplate.png)
+## Plastron : ![](../../.gitbook/assets/titane_chestplate.png)
 
 Durabilité : <mark style="color:orange;">960</mark>
 
@@ -84,7 +56,7 @@ Puissance : <mark style="color:orange;">2 / 6</mark>
 
 
 
-Jambières : ![](../../.gitbook/assets/titane_leggings.png)
+## Jambières : ![](../../.gitbook/assets/titane_leggings.png)
 
 Durabilité : <mark style="color:orange;">900</mark>
 
@@ -92,7 +64,7 @@ Puissance : <mark style="color:orange;">2 / 6</mark>
 
 
 
-Bottes : ![](../../.gitbook/assets/titane_boots.png)
+## Bottes : ![](../../.gitbook/assets/titane_boots.png)
 
 Durabilité : <mark style="color:orange;">780</mark>
 
@@ -100,19 +72,131 @@ Puissance : <mark style="color:orange;">2 / 6</mark>
 {% endtab %}
 
 {% tab title="Topaze" %}
+## Casque : ![](../../.gitbook/assets/topaze_helmet.png)
 
+Durabilité : <mark style="color:orange;">660</mark>
+
+Puissance : <mark style="color:orange;">3 / 6</mark>
+
+
+
+## Plastron : ![](../../.gitbook/assets/topaze_chestplate.png)
+
+Durabilité : <mark style="color:orange;">960</mark>
+
+Puissance : <mark style="color:orange;">3 / 6</mark>
+
+
+
+## Jambières : ![](../../.gitbook/assets/topaze_leggings.png)
+
+Durabilité : <mark style="color:orange;">900</mark>
+
+Puissance : <mark style="color:orange;">3 / 6</mark>
+
+
+
+## Bottes : ![](../../.gitbook/assets/topaze_boots.png)
+
+Durabilité : <mark style="color:orange;">780</mark>
+
+Puissance : <mark style="color:orange;">3 / 6</mark>
 {% endtab %}
 
 {% tab title="Mercure" %}
+## Casque : ![](../../.gitbook/assets/mercure_helmet.png)
 
+Durabilité : <mark style="color:orange;">770</mark>
+
+Puissance : <mark style="color:orange;">4 / 6</mark>
+
+
+
+## Plastron : ![](../../.gitbook/assets/mercure_chestplate.png)
+
+Durabilité : <mark style="color:orange;">1120</mark>
+
+Puissance : <mark style="color:orange;">4 / 6</mark>
+
+
+
+## Jambières : ![](../../.gitbook/assets/mercure_leggings.png)
+
+Durabilité : <mark style="color:orange;">1050</mark>
+
+Puissance : <mark style="color:orange;">4 / 6</mark>
+
+
+
+## Bottes : ![](../../.gitbook/assets/mercure_boots.png)
+
+Durabilité : <mark style="color:orange;">910</mark>
+
+Puissance : <mark style="color:orange;">4 / 6</mark>
 {% endtab %}
 
 {% tab title="Plutonium" %}
+## Casque : ![](../../.gitbook/assets/plutonium_helmet.png)
 
+Durabilité : <mark style="color:orange;">880</mark>
+
+Puissance : <mark style="color:orange;">5 / 6</mark>
+
+
+
+## Plastron : ![](../../.gitbook/assets/plutonium_chestplate.png)
+
+Durabilité : <mark style="color:orange;">1280</mark>
+
+Puissance : <mark style="color:orange;">5 / 6</mark>
+
+
+
+## Jambières : ![](../../.gitbook/assets/plutonium_leggings.png)
+
+Durabilité : <mark style="color:orange;">1200</mark>
+
+Puissance : <mark style="color:orange;">5 / 6</mark>
+
+
+
+## Bottes : ![](../../.gitbook/assets/plutonium_boots.png)
+
+Durabilité : <mark style="color:orange;">1040</mark>
+
+Puissance : <mark style="color:orange;">5 / 6</mark>
 {% endtab %}
 
 {% tab title="Suprême" %}
+## Casque : ![](../../.gitbook/assets/supreme_helmet.png)
 
+Durabilité : <mark style="color:orange;">990</mark>
+
+Puissance : <mark style="color:orange;">6 / 6</mark>
+
+
+
+## Plastron : ![](../../.gitbook/assets/supreme_chestplate.png)
+
+Durabilité : <mark style="color:orange;">1440</mark>
+
+Puissance : <mark style="color:orange;">6 / 6</mark>
+
+
+
+## Jambières : ![](../../.gitbook/assets/supreme_leggings.png)
+
+Durabilité : <mark style="color:orange;">1350</mark>
+
+Puissance : <mark style="color:orange;">6 / 6</mark>
+
+
+
+## Bottes : ![](../../.gitbook/assets/supreme_boots.png)
+
+Durabilité : <mark style="color:orange;">1170</mark>
+
+Puissance : <mark style="color:orange;">6 / 6</mark>
 {% endtab %}
 {% endtabs %}
 
