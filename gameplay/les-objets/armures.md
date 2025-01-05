@@ -221,7 +221,7 @@ Une fois l'armure totalement équipée, celle-ci vous donne les effets suivants 
 {% endhint %}
 {% endtab %}
 
-{% tab title="Fermier" %}
+{% tab title="Autres" %}
 ## Casque du pilleur : ![](../../.gitbook/assets/thief_helmet.png)
 
 Durabilité : <mark style="color:orange;">165</mark>
