@@ -26,4 +26,12 @@ Une fois l'effet appliqué, vous verrez les joueurs invisibles comme dans la vid
 
 <figure><img src="../../.gitbook/assets/NC4hLgDbCm.gif" alt=""><figcaption><p>Effet de potion Intuition</p></figcaption></figure>
 {% endtab %}
+
+{% tab title="Potion de célérité" %}
+Pour obtenir la potion de célérité sur Plutonia, suivez les recettes ci-dessous :
+
+<figure><img src="../../.gitbook/assets/pJDyuX6Czw.png" alt=""><figcaption><p>Recette de la potion de célérité I</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/8t2fMwPGG8.png" alt=""><figcaption><p>Recette de la potion de célérité II</p></figcaption></figure>
+{% endtab %}
 {% endtabs %}
