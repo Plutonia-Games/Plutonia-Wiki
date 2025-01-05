@@ -1,6 +1,5 @@
 ---
 description: Envie de connaitre les nouvelles armures ?
-hidden: true
 ---
 
 # 🤺 Armures
@@ -8,7 +7,7 @@ hidden: true
 Le serveur possède de nouvelles armures, vous pouvez les retrouver dans le tableau ci-dessous.
 
 {% tabs %}
-{% tab title="Armure en obsidienne" %}
+{% tab title="Obsidienne" %}
 L'armure en obsidienne est une armure créée par Plutonia. Elle est plus résistante que l'armure en diamant de Minecraft
 
 
@@ -69,7 +68,35 @@ Cette armure est également disponible dans le kit guerrier et paladin sur le se
 {% endtab %}
 
 {% tab title="Titane" %}
+\<u>Casque :\</u> ![](../../.gitbook/assets/titane_helmet.png)
 
+Durabilité : <mark style="color:orange;">660</mark>
+
+Puissance : <mark style="color:orange;">2 / 6</mark>
+
+
+
+Plastron : ![](../../.gitbook/assets/titane_chestplate.png)
+
+Durabilité : <mark style="color:orange;">960</mark>
+
+Puissance : <mark style="color:orange;">2 / 6</mark>
+
+
+
+Jambières : ![](../../.gitbook/assets/titane_leggings.png)
+
+Durabilité : <mark style="color:orange;">900</mark>
+
+Puissance : <mark style="color:orange;">2 / 6</mark>
+
+
+
+Bottes : ![](../../.gitbook/assets/titane_boots.png)
+
+Durabilité : <mark style="color:orange;">780</mark>
+
+Puissance : <mark style="color:orange;">2 / 6</mark>
 {% endtab %}
 
 {% tab title="Topaze" %}
@@ -88,3 +115,9 @@ Cette armure est également disponible dans le kit guerrier et paladin sur le se
 
 {% endtab %}
 {% endtabs %}
+
+
+
+{% hint style="info" %}
+Vous pouvez vous référer au wiki disponible en jeu pour voir les différentes recettes.
+{% endhint %}

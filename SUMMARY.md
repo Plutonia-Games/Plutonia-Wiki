@@ -24,6 +24,7 @@
   * [💎 Minerais](gameplay/les-blocs/minerais.md)
   * [🔧 Machines](gameplay/les-blocs/machines.md)
   * [🌼 Plantations](gameplay/les-blocs/plantations.md)
+  * [👾 Générateurs sombres](gameplay/les-blocs/generateurs-sombres.md)
 * [🪄 Les enchantements](gameplay/les-enchantements/README.md)
   * [📙 Raccommodage](gameplay/les-enchantements/raccommodage.md)
 * [🧟 Les monstres](gameplay/les-monstres/README.md)

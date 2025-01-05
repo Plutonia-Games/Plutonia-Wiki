@@ -11,7 +11,19 @@ Le serveur possède de nouvelles machines, vous pouvez les retrouver dans le tab
 
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Décrafteur" %}
+
+{% endtab %}
+
+{% tab title="Table de désenchantement" %}
+
+{% endtab %}
+
+{% tab title="Four en topaze" %}
+
+{% endtab %}
+
+{% tab title="Alarme" %}
 
 {% endtab %}
 {% endtabs %}
