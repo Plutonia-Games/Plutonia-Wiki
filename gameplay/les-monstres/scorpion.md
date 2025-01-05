@@ -10,4 +10,4 @@ Ils infligent 5 de dégâts, et ont 25% de chance de vous donner l'effet `Poison
 
 
 
-<figure><img src="../../.gitbook/assets/scorpion.png" alt=""><figcaption><p>Image d'un scorpion trouvé dans la nature</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/scorpion.png" alt="" width="403"><figcaption><p>Image d'un scorpion</p></figcaption></figure>
