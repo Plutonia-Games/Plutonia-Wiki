@@ -6,6 +6,12 @@ description: Envie de connaitre les nouvelles armures ?
 
 Le serveur possède de nouvelles armures, vous pouvez les retrouver dans le tableau ci-dessous.
 
+{% hint style="info" %}
+Vous pouvez vous référer au wiki disponible en jeu pour voir les différentes recettes.
+{% endhint %}
+
+
+
 {% tabs %}
 {% tab title="Obsidienne" %}
 ## Casque : ![](../../.gitbook/assets/obsidian_helmet.png)
@@ -165,6 +171,17 @@ Puissance : <mark style="color:orange;">5 / 6</mark>
 Durabilité : <mark style="color:orange;">1040</mark>
 
 Puissance : <mark style="color:orange;">5 / 6</mark>
+
+
+
+{% hint style="info" %}
+Une fois l'armure totalement équipée, celle-ci vous donne les effets suivants :
+
+* Rapidité II.
+* Force II.
+* Anti chute.
+* Résistance au feu.
+{% endhint %}
 {% endtab %}
 
 {% tab title="Suprême" %}
@@ -197,11 +214,16 @@ Puissance : <mark style="color:orange;">6 / 6</mark>
 Durabilité : <mark style="color:orange;">1170</mark>
 
 Puissance : <mark style="color:orange;">6 / 6</mark>
-{% endtab %}
-{% endtabs %}
 
 
 
 {% hint style="info" %}
-Vous pouvez vous référer au wiki disponible en jeu pour voir les différentes recettes.
+Une fois l'armure totalement équipée, celle-ci vous donne les effets suivants :
+
+* Rapidité II.
+* Force II.
+* Anti chute.
+* Résistance au feu.
 {% endhint %}
+{% endtab %}
+{% endtabs %}
