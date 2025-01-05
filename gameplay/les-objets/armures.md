@@ -6,12 +6,6 @@ description: Envie de connaitre les nouvelles armures ?
 
 Le serveur possède de nouvelles armures, vous pouvez les retrouver dans le tableau ci-dessous.
 
-{% hint style="info" %}
-Vous pouvez vous référer au wiki disponible en jeu pour voir les différentes recettes.
-{% endhint %}
-
-
-
 {% tabs %}
 {% tab title="Obsidienne" %}
 ## Casque : ![](../../.gitbook/assets/obsidian_helmet.png)
@@ -226,4 +220,63 @@ Une fois l'armure totalement équipée, celle-ci vous donne les effets suivants 
 * Résistance au feu.
 {% endhint %}
 {% endtab %}
+
+{% tab title="Fermier" %}
+## Casque du pilleur : ![](../../.gitbook/assets/thief_helmet.png)
+
+Durabilité : <mark style="color:orange;">165</mark>
+
+Puissance : <mark style="color:orange;">0 / 6</mark>
+
+Effets :
+
+* Aucun dégâts d'explosion.
+* Cache le pseudonyme.
+
+
+
+## Plastron du mineur : ![](../../.gitbook/assets/mining_chestplate.png)
+
+Durabilité : <mark style="color:orange;">240</mark>
+
+Puissance : <mark style="color:orange;">0 / 6</mark>
+
+Effets :
+
+* Célérité I.
+* Sauts améliorés II.
+* Résistance au feu I.
+
+
+
+## Jambières de l'explorateur : ![](../../.gitbook/assets/exploration_leggings.png)
+
+Durabilité : <mark style="color:orange;">225</mark>
+
+Puissance : <mark style="color:orange;">0 / 6</mark>
+
+Effets :
+
+* Rapidité IV.
+
+
+
+## Bottes du fermier : ![](../../.gitbook/assets/farming_boots.png)
+
+Durabilité : <mark style="color:orange;">195</mark>
+
+Puissance : <mark style="color:orange;">0 / 6</mark>
+
+Effets :
+
+* Anti chute I.
+* Ne casse pas les plantations quand vous sautez dessus.
+* Le sable des âmes ne vous ralenti pas.
+{% endtab %}
 {% endtabs %}
+
+
+
+{% hint style="info" %}
+Vous pouvez vous référer au wiki disponible en jeu pour voir les différentes recettes.
+{% endhint %}
