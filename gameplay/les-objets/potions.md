@@ -28,7 +28,7 @@ Une fois l'effet appliqué, vous verrez les joueurs invisibles comme dans la vid
 {% endtab %}
 
 {% tab title="Potion de célérité" %}
-Pour obtenir la potion de célérité sur Plutonia, suivez les recettes ci-dessous :
+La potion de célérité est une potion présentes dans Minecraft, mais celle-ci n'a pas de recette. Cette potion permet de miner plus rapidement, elle est réalisable comme dans les images ci-dessous :
 
 <figure><img src="../../.gitbook/assets/pJDyuX6Czw.png" alt=""><figcaption><p>Recette de la potion de célérité I</p></figcaption></figure>
 
