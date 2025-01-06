@@ -32,7 +32,7 @@
   * [🧟 Momie](gameplay/les-monstres/momie.md)
   * [🦂 Scorpion](gameplay/les-monstres/scorpion.md)
   * [🦅 Wyvern](gameplay/les-monstres/wyvern.md)
-  * [⭕ Hades](gameplay/les-monstres/hades.md)
+  * [⭕ Hadès](gameplay/les-monstres/hades.md)
   * [🦍 Gorille géant](gameplay/les-monstres/gorille-geant.md)
   * [🌋 Seigneur de lave](gameplay/les-monstres/seigneur-de-lave.md)
 * [🤔 Les quêtes](gameplay/les-quetes.md)
