@@ -4,7 +4,7 @@ description: Envie de découvrir les nouvelles machines ?
 
 # 🔧 Machines
 
-Le serveur possède de nouvelles machines, vous pouvez les retrouver dans le tableau ci-dessous.
+Le serveur possède de nouvelles machines, vous pouvez les retrouver sur cette page.
 
 <details>
 
