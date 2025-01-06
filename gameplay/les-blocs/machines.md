@@ -32,7 +32,7 @@ L'établi suprême vous permet de crafter les nouveaux objets dans une interface
 
 <details>
 
-<summary>Le four en topaze</summary>
+<summary><img src="../../.gitbook/assets/topaze_furnace.png" alt="" data-size="line"> Le four en topaze</summary>
 
 Le four en topaze vous permet de faire cuire les items deux fois plus rapidement qu'un four basique.
 
