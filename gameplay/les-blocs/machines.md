@@ -8,9 +8,9 @@ Le serveur possède de nouvelles machines, vous pouvez les retrouver sur cette p
 
 <details>
 
-<summary><img src="../../.gitbook/assets/decrafter.png" alt="" data-size="line"> Le décrafteur</summary>
+<summary><img src="../../.gitbook/assets/decrafteur.png" alt="" data-size="line"> Le décrafteur</summary>
 
-Le décrafteur vous permet de récupérer les lingots d'une armure que vous lui donnez. Son fonctionnement dépend de la durabilité de l'armure.
+Le décrafteur vous permet de récupérer les lingots d'une armure que vous lui donnez. <mark style="color:orange;">Son fonctionnement dépend de la durabilité de l'armure.</mark>
 
 Par exemple, si vous introduisez des bottes en mercure avec une durabilité de 50 %, le décrafteur vous remettra 2 lingots de mercure.
 
@@ -20,9 +20,9 @@ Par exemple, si vous introduisez des bottes en mercure avec une durabilité de 5
 
 <summary><img src="../../.gitbook/assets/disenchanter.png" alt="" data-size="line"> La table de désenchantement</summary>
 
-La table de désenchantement vous permet de supprimer les enchantements de l'armure que vous lui avez fournie.
+La table de désenchantement vous permet de <mark style="color:orange;">supprimer les enchantements de l'armure que vous lui avez fournie</mark>.
 
-Une orbe de désenchantement est nécessaire à son fonctionnement.
+<mark style="color:orange;">Une orbe de désenchantement est nécessaire à son fonctionnement.</mark>
 
 </details>
 
@@ -46,7 +46,9 @@ Le four en topaze réduit de moitié le temps de cuisson par rapport à un four 
 
 <summary><img src="../../.gitbook/assets/satteliterevised.png" alt="" data-size="line"> L'alarme</summary>
 
-L'alarme est un bloc qui permet de vous informer via Discord si une personne est présente dans un rayon de 100 blocs aux alentours. Pour qu'elle vous envoie des notifications sur Discord, il vous faudra lier votre compte à celle-ci via la commande `/link`.
+L'alarme est un bloc qui permet de <mark style="color:orange;">vous informer via Discord</mark> si une personne est présente dans <mark style="color:orange;">un rayon de 100 blocs aux alentours</mark>.
+
+<mark style="color:orange;">Pour qu'elle vous envoie des notifications sur Discord, il vous faudra lier votre compte à celle-ci via la commande</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`/link`</mark><mark style="color:orange;">.</mark>
 
 </details>
 
