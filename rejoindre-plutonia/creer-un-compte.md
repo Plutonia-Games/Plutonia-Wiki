@@ -40,7 +40,7 @@ Plutonia ne vous demandera jamais, sous aucun prétexte, de vous connecter via u
 
 * **Ne cliquez pas sur les liens dans cet e-mail.**
 * **Ne répondez pas à cet e-mail.**
-* S**ignalez-le immédiatement à notre service support** en ouvrant un ticket sur notre discord.
+* S**ignalez-le immédiatement à notre support** en ouvrant un ticket sur notre discord.
 
 Restez vigilant et si vous avez le moindre doute, contactez-nous directement.
 {% endhint %}
