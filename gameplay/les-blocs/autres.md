@@ -15,7 +15,7 @@ Le serveur possède de nombreux blocs, vous pouvez les retrouver sur cette page.
 Le bloc de grotte permet de voir à travers les autres blocs, ce qui est pratique pour explorer ou repérer des bases cachées.
 
 \
-Ajustez ces deux paramètres pour mieux voir à travers les murs :
+<mark style="color:orange;">Ajustez ces deux paramètres pour mieux voir à travers les murs :</mark>
 
 * Cliquez sur `Options`.
 * Cliquez sur `Video Settings`.
@@ -28,7 +28,7 @@ Ajustez ces deux paramètres pour mieux voir à travers les murs :
 
 <summary><img src="../../.gitbook/assets/anticrashco.png" alt="" data-size="line"> Bloc anti crash-co</summary>
 
-Ce dispositif vous protège d'un bug connu, le `crash connexion`, et peut être détruit avec de la TNT.
+Ce dispositif vous protège d'un bug connu, le `crash connexion`, et peut <mark style="color:orange;">être détruit avec de la TNT</mark>.
 
 </details>
 
@@ -36,7 +36,7 @@ Ce dispositif vous protège d'un bug connu, le `crash connexion`, et peut être 
 
 <summary><img src="../../.gitbook/assets/titanechest.png" alt="" data-size="line"> Coffre en titane</summary>
 
-Le coffre en titane offre une capacité équivalente à celle d'un double coffre, mais peut être détruit par la TNT.
+Le coffre en titane offre une capacité équivalente à celle d'un double coffre, mais peut <mark style="color:orange;">être détruit par la TNT</mark>.
 
 </details>
 
@@ -44,7 +44,7 @@ Le coffre en titane offre une capacité équivalente à celle d'un double coffre
 
 <summary><img src="../../.gitbook/assets/obsidianchest.png" alt="" data-size="line"> Coffre en obsidienne</summary>
 
-Le coffre en obsidienne fonctionne comme un coffre simple, mais il est résistant à la TNT. Cependant, il peut toujours être pillé via l'interface de piratage.
+Le coffre en obsidienne fonctionne comme un coffre simple, mais <mark style="color:orange;">il est résistant à la TNT</mark>. Cependant, il peut toujours être <mark style="color:orange;">pillé via l'interface de piratage</mark>.
 
 </details>
 
