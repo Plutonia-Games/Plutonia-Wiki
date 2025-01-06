@@ -8,7 +8,7 @@ Le serveur possède de nouvelles machines, vous pouvez les retrouver sur cette p
 
 <details>
 
-<summary>Le décrafteur</summary>
+<summary><img src="../../.gitbook/assets/decrafter.png" alt="" data-size="line"> Le décrafteur</summary>
 
 Le décrafteur vous permet de récupérer les lingots associés à l'armure que vous lui avez donné. Cela fonctionne en fonction de la durabilité de l'armure, si vous entrez des bottes en mercure avec un durabilité de 50%, le décrafteur vous donnera 2 mercures.
 
@@ -16,7 +16,7 @@ Le décrafteur vous permet de récupérer les lingots associés à l'armure que 
 
 <details>
 
-<summary>La table de désenchantement</summary>
+<summary><img src="../../.gitbook/assets/disenchanter.png" alt="" data-size="line"> La table de désenchantement</summary>
 
 La table de désenchantement vous permet de retirer des enchantements associés à l'armure que vous lui avez donné. Celle-ci fonctionne avec une orbe de désenchantement.
 
@@ -24,7 +24,7 @@ La table de désenchantement vous permet de retirer des enchantements associés 
 
 <details>
 
-<summary>L'établi suprême</summary>
+<summary><img src="../../.gitbook/assets/supreme_crafting_table.png" alt="" data-size="line"> L'établi suprême</summary>
 
 L'établi suprême vous permet de crafter les nouveaux objets dans une interface faisant 9 \* 9.
 
