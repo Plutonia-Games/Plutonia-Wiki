@@ -84,7 +84,15 @@ Situé entre les couches 2 et 8, ce minerai permet de récupérer du mercure lor
 
 <summary><img src="../../.gitbook/assets/waterore.png" alt="" data-size="line"> Minerais élémentaires</summary>
 
+Les minerais élémentaires sont des minerais spéciaux, ils sont plus rares que le mercure, et se trouvent à des endroits différents.
 
+Tous les minerais, à l'exception du minerai des astres, et des enfers, se trouvent dans le [monde Minage](../../mondes/minages.md). Le minerai des astres est présent sur le [monde de l'End](../../mondes/end.md), et le minerai des enfers est présent dans le [monde du Nether](../../mondes/nether.md).
+
+Échelle de rareté : Obsidienne > Expérience > Aléatoire > Titane > Topaze > Mercure > <mark style="color:orange;">Minerais élémentaires</mark> > Plutonium.
+
+Situé entre les couches 0 et 60, ces minerais permettent de récupérer aléatoirement en fonction de leur élément une partie du cœur d'un gardien lorsqu'ils sont minés. Il n'y a qu'un seul minerai par filon.
+
+<mark style="color:orange;">Les minerais élémentaires ne sont pas fortunables, sauf avec la</mark> [<mark style="color:orange;">pioche suprême</mark>](../les-objets/outils.md#pioche-5)<mark style="color:orange;">.</mark>
 
 </details>
 
