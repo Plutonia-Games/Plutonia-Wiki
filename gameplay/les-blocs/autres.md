@@ -10,39 +10,41 @@ Le serveur possède de nombreux blocs, vous pouvez les retrouver sur cette page.
 
 <details>
 
-<summary>Bloc de grotte</summary>
+<summary><img src="../../.gitbook/assets/cave.png" alt="" data-size="line"> Bloc de grotte</summary>
 
-Le bloc de grotte permet de voir à travers les autres blocs, pratique pour piller des bases !
+Le bloc de grotte permet de voir à travers les autres blocs, ce qui est pratique pour explorer ou repérer des bases cachées.
 
 \
-Nous recommandons de modifier deux paramètres pour voir mieux à travers les murs :\
-Emplacement : Options -> Video Settings -> Other\
-\- Propagation lumineuse : OFF\
-\- Optimisations des tronçons : OFF
+Ajustez ces deux paramètres pour mieux voir à travers les murs :
+
+* Cliquez sur `Options`.
+* Cliquez sur `Video Settings`.
+* Cliquez sur `Other`.
+* Désactivez `Propagation lumineuse`, et `Optimisations des tronçons`.
 
 </details>
 
 <details>
 
-<summary>Bloc anti crash-co</summary>
+<summary><img src="../../.gitbook/assets/anticrashco.png" alt="" data-size="line"> Bloc anti crash-co</summary>
 
-Ce bloc permet de vous protéger contre un bug bien connu, le "crash connexion", il est cassable à la TNT.
-
-</details>
-
-<details>
-
-<summary>Coffre en titane</summary>
-
-Le coffre en titane est un équivalent d'un double coffre niveau taille d'inventaire, il est cassable à la TNT.
+Ce dispositif vous protège d'un bug connu, le `crash connexion`, et peut être détruit avec de la TNT.
 
 </details>
 
 <details>
 
-<summary>Coffre en obsidienne</summary>
+<summary><img src="../../.gitbook/assets/titanechest.png" alt="" data-size="line"> Coffre en titane</summary>
 
-Le coffre en obsidienne est l'équivalent d'un coffre simple, mais ne peut pas être détruit par la TNT, il peut quand même être pillé avec l'interface de piratage.
+Le coffre en titane offre une capacité équivalente à celle d'un double coffre, mais peut être détruit par la TNT.
+
+</details>
+
+<details>
+
+<summary><img src="../../.gitbook/assets/obsidianchest.png" alt="" data-size="line"> Coffre en obsidienne</summary>
+
+Le coffre en obsidienne fonctionne comme un coffre simple, mais il est résistant à la TNT. Cependant, il peut toujours être pillé via l'interface de piratage.
 
 </details>
 
