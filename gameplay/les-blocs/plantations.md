@@ -70,5 +70,5 @@ La plantation de plutonium prend <mark style="color:orange;">huit fois plus de t
 
 
 {% hint style="info" %}
-Les graines peuvent être achetées dans le marché (/shop) du serveur ou récupérer dans les caisses. (/warp caisses)
+Les graines peuvent être achetées dans la boutique du serveur (`/shop`) ou récupérées dans les caisses (`/warp caisses`).
 {% endhint %}
