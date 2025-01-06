@@ -40,7 +40,7 @@ Le four en topaze vous permet de faire cuire les items deux fois plus rapidement
 
 <details>
 
-<summary>L'alarme</summary>
+<summary><img src="../../.gitbook/assets/satteliterevised.png" alt="" data-size="line"> L'alarme</summary>
 
 
 
