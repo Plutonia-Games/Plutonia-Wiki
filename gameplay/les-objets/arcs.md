@@ -7,7 +7,7 @@ description: Envie de connaitre les nouveaux arcs ?
 Le serveur possède de nouveaux arcs, vous pouvez les retrouver dans le tableau ci-dessous.
 
 {% tabs %}
-{% tab title="L'arc en obsidienne" %}
+{% tab title="Arc en obsidienne" %}
 L'arc en obsidienne est une arme créée par Plutonia. Il est plus résistant que l'arc classique de Minecraft.
 
 Les caractéristiques de cet arc sont les suivantes : \
@@ -23,7 +23,7 @@ L'arc en obsidienne peut être créé en suivant le pattern ci-dessous :&#x20;
 <figure><img src="../../.gitbook/assets/rY65U98fPu.png" alt="" width="359"><figcaption><p>Recette de l'arc en obsidienne</p></figcaption></figure>
 {% endtab %}
 
-{% tab title="L'arc en titane" %}
+{% tab title="Arc en titane" %}
 L'arc en titane est une arme créée par Plutonia. Cet arc est plus résistant que l'arc en obsidienne.
 
 Les caractéristiques de cet arc sont les suivantes : \
@@ -39,7 +39,7 @@ L'arc en titane peut être créé en suivant le pattern ci-dessous :&#x20;
 <figure><img src="../../.gitbook/assets/rcfLqdhzCZ.png" alt="" width="359"><figcaption><p>Recette de l'arc en titane </p></figcaption></figure>
 {% endtab %}
 
-{% tab title="L'arc en topaze" %}
+{% tab title="Arc en topaze" %}
 L'arc en topaze est une arme créée par Plutonia. Cet arc est plus résistant que l'arc en titane.
 
 Les caractéristiques de cet arc sont les suivantes : \
@@ -55,7 +55,7 @@ L'arc en topaze peut être créé en suivant le pattern ci-dessous :&#x20;
 <figure><img src="../../.gitbook/assets/ylEKkFmMAH.png" alt="" width="359"><figcaption><p>Recette de l'arc en topaze</p></figcaption></figure>
 {% endtab %}
 
-{% tab title="L'arc en mercure" %}
+{% tab title="Arc en mercure" %}
 L'arc en mercure est une arme créée par Plutonia. Cet arc est plus résistant que l'arc en topaze.
 
 Les caractéristiques de cet arc sont les suivantes : \
@@ -71,7 +71,7 @@ L'arc en mercure peut être créé en suivant le pattern ci-dessous :&#x20;
 <figure><img src="../../.gitbook/assets/mSOgCVSDhy.png" alt="" width="359"><figcaption><p>Recette de l'arc en mercure</p></figcaption></figure>
 {% endtab %}
 
-{% tab title="L'arc en plutonium" %}
+{% tab title="Arc en plutonium" %}
 L'arc en plutonium est une arme créée par Plutonia. Cet arc est plus résistant que l'arc en mercure.
 
 Les caractéristiques de cet arc sont les suivantes : \
@@ -87,7 +87,7 @@ L'arc en plutonium peut être créé en suivant le pattern ci-dessous :&#x20;
 <figure><img src="../../.gitbook/assets/dub37phO1c.png" alt="" width="359"><figcaption><p>Recette de l'arc en plutonium</p></figcaption></figure>
 {% endtab %}
 
-{% tab title="L'arc suprême" %}
+{% tab title="Arc suprême" %}
 L'arc suprême est une arme à distance unique créée par Plutonia. Cet arc est plus résistant que tous les autres arcs disponibles et permet de se téléporter sur le monstre / joueur touché par votre flèche.
 
 Les caractéristiques de cet arc sont les suivantes : \
