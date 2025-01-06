@@ -132,7 +132,7 @@ L'épée suprême peut être créée en suivant le pattern ci-dessous :&#x20;
 <figure><img src="../../.gitbook/assets/rJdPO08gDD.png" alt="" width="375"><figcaption><p>Recette de l'épée suprême</p></figcaption></figure>
 
 {% hint style="info" %}
-Contrairement à l'ensemble des autres armes, il est nécessaire d'utiliser l'[établi suprême](../les-blocs/machines.md#first-tab) pour créer l'épée suprême.
+Contrairement à l'ensemble des autres armes, il est nécessaire d'utiliser [l'établi suprême](../les-blocs/machines.md#letabli-supreme) pour créer l'épée suprême.
 {% endhint %}
 {% endtab %}
 {% endtabs %}

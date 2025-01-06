@@ -111,7 +111,7 @@ L'épée suprême peut être créé en suivant le pattern ci-dessous :&#x20;
 <figure><img src="../../.gitbook/assets/8Mq2ICq1X8.png" alt="" width="563"><figcaption><p>Recette de l'arc suprême</p></figcaption></figure>
 
 {% hint style="info" %}
-Contrairement à l'ensemble des autres arcs, il est nécessaire d'utiliser l'[établi suprême](../les-blocs/machines.md#etabli-supreme) pour créer l'arc suprême.
+Contrairement à l'ensemble des autres arcs, il est nécessaire d'utiliser [l'établi suprême](../les-blocs/machines.md#letabli-supreme) pour créer l'arc suprême.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
