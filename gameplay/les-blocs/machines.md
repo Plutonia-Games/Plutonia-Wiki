@@ -10,7 +10,9 @@ Le serveur possède de nouvelles machines, vous pouvez les retrouver sur cette p
 
 <summary><img src="../../.gitbook/assets/decrafter.png" alt="" data-size="line"> Le décrafteur</summary>
 
-Le décrafteur vous permet de récupérer les lingots associés à l'armure que vous lui avez donné. Cela fonctionne en fonction de la durabilité de l'armure, si vous entrez des bottes en mercure avec un durabilité de 50%, le décrafteur vous donnera 2 mercures.
+Le décrafteur vous permet de récupérer les lingots d'une armure que vous lui donnez. Son fonctionnement dépend de la durabilité de l'armure.
+
+Par exemple, si vous introduisez des bottes en mercure avec une durabilité de 50 %, le décrafteur vous remettra 2 lingots de mercure.
 
 </details>
 
@@ -18,7 +20,9 @@ Le décrafteur vous permet de récupérer les lingots associés à l'armure que 
 
 <summary><img src="../../.gitbook/assets/disenchanter.png" alt="" data-size="line"> La table de désenchantement</summary>
 
-La table de désenchantement vous permet de retirer des enchantements associés à l'armure que vous lui avez donné. Celle-ci fonctionne avec une orbe de désenchantement.
+La table de désenchantement vous permet de supprimer les enchantements de l'armure que vous lui avez fournie.
+
+Une orbe de désenchantement est nécessaire à son fonctionnement.
 
 </details>
 
@@ -26,7 +30,7 @@ La table de désenchantement vous permet de retirer des enchantements associés 
 
 <summary><img src="../../.gitbook/assets/supreme_crafting_table.png" alt="" data-size="line"> L'établi suprême</summary>
 
-L'établi suprême vous permet de crafter les nouveaux objets dans une interface faisant 9 \* 9.
+L'établi suprême vous permet de fabriquer de nouveaux objets avec une interface de 9 x 9.
 
 </details>
 
@@ -34,7 +38,7 @@ L'établi suprême vous permet de crafter les nouveaux objets dans une interface
 
 <summary><img src="../../.gitbook/assets/topaze_furnace.png" alt="" data-size="line"> Le four en topaze</summary>
 
-Le four en topaze vous permet de faire cuire les items deux fois plus rapidement qu'un four basique.
+Le four en topaze réduit de moitié le temps de cuisson par rapport à un four traditionnel.
 
 </details>
 
@@ -45,3 +49,9 @@ Le four en topaze vous permet de faire cuire les items deux fois plus rapidement
 
 
 </details>
+
+
+
+{% hint style="info" %}
+Vous pouvez vous référer au wiki disponible en jeu pour voir les différentes recettes.
+{% endhint %}
