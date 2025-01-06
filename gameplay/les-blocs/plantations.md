@@ -8,75 +8,67 @@ Le serveur possède de nouvelles agricultures, vous pouvez les retrouver dans le
 
 <details>
 
-<summary>Graines de résistance au feu</summary>
+<summary><img src="../../.gitbook/assets/resifeu.png" alt="" data-size="line"> Graines de résistance au feu</summary>
 
-La graine de résistance au feu prend trois fois plus de temps à pousser que du blé.\
-Une fois récoltée, elle vous donne une essence de résistance au feu, celle-ci permet de créer un cookie de résistance au feu.
+La graine de résistance au feu prend <mark style="color:orange;">trois fois plus de temps à pousser</mark> que du blé.\
+Une fois récoltée, elle vous donne une <mark style="color:orange;">essence de résistance au feu</mark>, celle-ci permet de créer un cookie de résistance au feu.
 
+</details>
+
+<details>
+
+<summary><img src="../../.gitbook/assets/force.png" alt="" data-size="line"> Graines de force</summary>
+
+La graine de force prend <mark style="color:orange;">trois fois plus de temps à pousser</mark> que du blé.\
+Une fois récoltée, elle vous donne une <mark style="color:orange;">essence de force</mark>, celle-ci permet de créer un cookie de force.
+
+</details>
+
+<details>
+
+<summary><img src="../../.gitbook/assets/regen.png" alt="" data-size="line"> Graines de régénération</summary>
+
+La graine de régénération prend <mark style="color:orange;">trois fois plus de temps à pousser</mark> que du blé.\
+Une fois récoltée, elle vous donne une <mark style="color:orange;">essence de régénération</mark>, celle-ci permet de créer un cookie de régénération.
+
+</details>
+
+<details>
+
+<summary><img src="../../.gitbook/assets/antichute.png" alt="" data-size="line"> Graines d'anti chute</summary>
+
+La graine d'anti chute prend <mark style="color:orange;">trois fois plus de temps à pousser</mark> que du blé.\
+Une fois récoltée, elle vous donne une <mark style="color:orange;">essence d'anti chute</mark>, celle-ci permet de créer un cookie d'anti chute.
+
+</details>
+
+<details>
+
+<summary><img src="../../.gitbook/assets/creeper.png" alt="" data-size="line"> Graines de Creeper</summary>
+
+La graine de Creeper prend <mark style="color:orange;">dix fois plus de temps à pousser</mark> que du blé.\
+Une fois récoltée, elle vous donne une <mark style="color:orange;">essence de Creeper</mark>, celle-ci permet de créer un sceptre de Creeper.
+
+</details>
+
+<details>
+
+<summary><img src="../../.gitbook/assets/mercure.png" alt="" data-size="line"> Plantation de mercure</summary>
+
+La plantation de mercure prend <mark style="color:orange;">huit fois plus de temps à pousser</mark> que du blé, une fois récoltée, elle vous donne une <mark style="color:orange;">pépite de mercure</mark>.
+
+</details>
+
+<details>
+
+<summary><img src="../../.gitbook/assets/pluto.png" alt="" data-size="line"> Plantation de plutonium</summary>
+
+La plantation de plutonium prend <mark style="color:orange;">huit fois plus de temps à pousser</mark> que du blé, une fois récoltée, elle vous donne une <mark style="color:orange;">pépite de plutonium</mark>.
+
+</details>
+
+
+
+{% hint style="info" %}
 Les graines peuvent être achetées dans le marché (/shop) du serveur ou récupérer dans les caisses. (/warp caisses)
-
-</details>
-
-<details>
-
-<summary>Graines de force</summary>
-
-La graine de force prend trois fois plus de temps à pousser que du blé.\
-Une fois récoltée, elle vous donne une essence de force, celle-ci permet de créer un cookie de force.
-
-Les graines peuvent être achetées dans le marché (/shop) du serveur ou récupérer dans les caisses. (/warp caisses)
-
-</details>
-
-<details>
-
-<summary>Graines de régénération</summary>
-
-La graine de régénération prend trois fois plus de temps à pousser que du blé.\
-Une fois récoltée, elle vous donne une essence de régénération, celle-ci permet de créer un cookie de régénération.
-
-Les graines peuvent être achetées dans le marché (/shop) du serveur ou récupérer dans les caisses. (/warp caisses)
-
-</details>
-
-<details>
-
-<summary>Graines d'anti chute</summary>
-
-La graine d'anti-chûte prend trois fois plus de temps à pousser que du blé.\
-Une fois récoltée, elle vous donne une essence d'anti-chûte, celle-ci permet de créer un cookie d'anti-chûte.
-
-Les graines peuvent être achetées dans le marché (/shop) du serveur ou récupérer dans les caisses. (/warp caisses)
-
-</details>
-
-<details>
-
-<summary>Graines de creeper</summary>
-
-La graine de creeper prend dix fois plus de temps à pousser que du blé.\
-Une fois récoltée, elle vous donne une essence de creeper, celle-ci permet de créer un sceptre de creeper.
-
-Les graines peuvent être achetées dans le marché noir du serveur ou récupérer dans les caisses /warp caisses.
-
-</details>
-
-<details>
-
-<summary>Plantation de mercure</summary>
-
-La plantation de mercure prend huit fois plus de temps à pousser que du blé, une fois récoltée, elle vous donne une pépite de mercure.
-
-Les graines peuvent être achetées dans le marché noir (Blackmarket) du serveur ou récupérer dans les caisses. (/warp caisses)
-
-</details>
-
-<details>
-
-<summary>Plantation de plutonium</summary>
-
-La plantation de plutonium prend huit fois plus de temps à pousser que du blé, une fois récoltée, elle vous donne une pépite de plutonium.
-
-Les graines peuvent être achetées dans le marché noir (Blackmarket) du serveur ou récupérer dans les caisses. (/warp caisses)
-
-</details>
+{% endhint %}
