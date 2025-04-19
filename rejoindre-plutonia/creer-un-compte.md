@@ -1,5 +1,4 @@
 ---
-icon: globe-pointer
 description: Vous n'avez pas encore de compte ?
 ---
 

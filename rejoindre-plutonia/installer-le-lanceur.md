@@ -1,5 +1,4 @@
 ---
-icon: folder-arrow-down
 description: Comment se connecter sur le serveur ?
 ---
 
