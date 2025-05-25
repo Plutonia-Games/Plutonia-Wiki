@@ -22,7 +22,7 @@ Il faut savoir que la carte du serveur fait $$20000×20000$$ blocs, ce qui en fa
 
 
 
-### Mais quels sont les commandes ?
+### Mais quelles sont les commandes ?
 
 Les commandes disponibles sur ce serveur sont <mark style="color:orange;">très complètes</mark>, voici la liste des commandes disponibles sur ce serveur :
 
