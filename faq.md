@@ -52,9 +52,9 @@ Le serveur effectue une sauvegarde complète chaque jour à 6h du matin. Cette a
 
 ### <mark style="color:orange;">➤ J'avais un compte avant la version 14, comment puis-je le récupérer ?</mark>
 
-Il n'est pas possible de le récupérer. Il vous faudra recréer un compte.
+Il vous faudra vous connecter à votre ancien compte et faire une demande de réinitialisation de votre mot de passe sur notre site Internet.
 
-Cependant, pour récupérer vos anciens achats encore actifs, il vous faudra utiliser la commande `/remboursement` avec votre ancienne adresse e-mail et suivre les instructions fournies. Aucune exception ne sera faite.
+Si vous aviez encore des points boutiques sur votre compte, ils vous ont été totalement remboursés. Si vous aviez des kits, ils vous ont été remboursés en points d'honneur sur votre compte.
 
 
 
