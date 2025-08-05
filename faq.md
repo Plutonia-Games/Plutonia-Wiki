@@ -56,6 +56,8 @@ Il vous faudra vous connecter à votre ancien compte et faire une demande de ré
 
 Si vous aviez encore des points boutiques sur votre compte, ils vous ont été totalement remboursés. Si vous aviez des kits, ils vous ont été remboursés en points d'honneur sur votre compte.
 
+Si vous avez un problème avec votre compte, veuillez créer un ticket sur [notre serveur Discord](https://discord.gg/plutonia).
+
 
 
 ### <mark style="color:orange;">➤ Comment puis-je être remboursé d'un achat effectué sur Plutonia ?</mark>
