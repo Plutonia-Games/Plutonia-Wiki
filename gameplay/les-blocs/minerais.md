@@ -108,6 +108,10 @@ Situé seulement entre les couches 2 et 8 dans le biome Extreme Hills, ce minera
 
 <mark style="color:orange;">Le minerai de plutonium n'est pas fortunable. Cela signifie que l'utilisation de l'enchantement Fortune I / II / III ne permet pas de récupérer plus de plutonium lorsque le minerai est miné.</mark>
 
+{% hint style="info" %}
+Seule la pioche suprême permet d'utiliser fortune sur ce minerai.
+{% endhint %}
+
 </details>
 
 
