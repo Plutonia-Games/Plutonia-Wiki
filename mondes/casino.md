@@ -20,7 +20,7 @@ Vous pouvez aller sur ce serveur grâce à la commande `/casino`.
 
 ### Mais quelles sont les commandes disponibles ?
 
-<mark style="color:orange;">Les commandes disponibles sur ce serveur sont similaires à celles du serveur factions.</mark> Les fonctionnalités telles que l'hôtel des ventes, le magasin du serveur et la gestion des factions ne sont pas disponibles. Pour consulter les commandes du serveur factions, veuillez consulter [cette section](factions.md).&#x20;
+<mark style="color:orange;">Les commandes disponibles sur ce serveur sont similaires à celles du serveur factions.</mark> Les fonctionnalités telles que l'hôtel des ventes et la gestion des factions ne sont pas disponibles. Pour consulter les commandes du serveur factions, veuillez consulter [cette section](factions.md).&#x20;
 
 Vous avez cependant accès à la commande `/bet` pour voir les différents jeux présents.
 
