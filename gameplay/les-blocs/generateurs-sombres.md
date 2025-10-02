@@ -58,6 +58,10 @@ Pour en savoir plus, veuillez vous référer au wiki en jeu.
 La vue du haut correspond à la direction Nord.
 {% endhint %}
 
+Pour réaliser la structure de votre générateur sombre, il vous faudra des symboles ! Attention, les symboles ont une seule utilisation, si vous les cassez, vous ne pouvez plus les récupérer.
+
+Pour savoir comment en obtenir, veuillez vous référer à [cette section](../les-objets/autres.md#le-scalpel).
+
 {% tabs %}
 {% tab title="Tier 0" %}
 <figure><img src="../../.gitbook/assets/2025-04-20_00.29.49.png" alt=""><figcaption><p>Structure du générateur sombre de tier 0.</p></figcaption></figure>
