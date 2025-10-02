@@ -116,7 +116,19 @@ Le trèfle permet de créer un minerai aléatoire. Pour en obtenir, il suffit de
 
 </details>
 
+<details>
 
+<summary><img src="../../.gitbook/assets/syringe.png" alt="" data-size="line"> Le scalpel</summary>
+
+Le scalpel vous permet d'obtenir des symboles. Pour l'utiliser il vous faut simplement vous placer sur un tapis satanique, et faire un clic droit avec, une interface s'ouvrira alors.
+
+Dans cette interface, vous pourrez sélectionner les symboles que vous souhaitez. Mais attention, ces symboles sont données de façon aléatoire, c'est-à-dire que si vous choisissez un Symbole (tier 1), cela vous donnera au hasard un symbole de tier 1.
+
+{% hint style="info" %}
+Le scalpel possède 3 utilisations maximum. Il n'est pas possible d'y mettre un enchantement pour ajouter plus de durabilité.
+{% endhint %}
+
+</details>
 
 {% hint style="info" %}
 Vous pouvez vous référer au wiki disponible en jeu pour voir les différentes recettes.
