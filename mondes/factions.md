@@ -16,7 +16,7 @@ Tutoriel pour apprendre le mode de jeu Factions
 
 ### Quelles sont les spécificités du serveur ?
 
-Il faut savoir que la carte du serveur fait $$20000×20000$$ blocs, ce qui en fait une grande carte pour créer sa base. <mark style="color:orange;">Il est aussi important de savoir qu'aucun minerai moddé n'apparaît sur ce serveur, ceci afin d'éviter tout contournement de notre anti-cheat.</mark>
+Il faut savoir que la carte du serveur fait $$25000×25000$$ blocs, ce qui en fait une grande carte pour créer sa base. <mark style="color:orange;">Il est aussi important de savoir qu'aucun minerai moddé n'apparaît sur ce serveur, ceci afin d'éviter tout contournement de notre anti-cheat.</mark>
 
 ### Mais quelles sont les commandes ?
 
