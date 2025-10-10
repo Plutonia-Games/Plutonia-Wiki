@@ -55,3 +55,7 @@ Les récompenses sont diverses et variées. Voici un tableau qui vous présente 
 {% hint style="danger" %}
 Pour que les récompenses soient disponibles, une moyenne de 50 joueurs connectés par jour est nécessaire.
 {% endhint %}
+
+{% hint style="danger" %}
+Le classement est réinitialisé tous les mois. Par exemple, si le serveur ouvre le 15 janvier, le classement sera réinitialisé le 11 février.
+{% endhint %}
