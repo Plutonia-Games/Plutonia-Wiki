@@ -104,7 +104,7 @@ Le minerai de plutonium est le minerai le plus rare du serveur et se classe à l
 \
 Échelle de rareté : Obsidienne > Expérience > Aléatoire > Titane > Topaze > Mercure > Minerais élémentaires > <mark style="color:orange;">Plutonium</mark>.
 
-Situé seulement entre les couches 2 et 8 dans le biome Extreme Hills, ce minerai permet de récupérer du plutonium lorsqu'il est miné. Le nombre de minerais par filon est compris entre 1 minerai et 2 minerais.
+Situé seulement entre les couches 1 et 16 dans le biome Extreme Hills, ce minerai permet de récupérer du plutonium lorsqu'il est miné. Le nombre de minerais par filon est compris entre 1 minerai et 2 minerais.
 
 <mark style="color:orange;">Le minerai de plutonium n'est pas fortunable. Cela signifie que l'utilisation de l'enchantement Fortune I / II / III ne permet pas de récupérer plus de plutonium lorsque le minerai est miné.</mark>
 
