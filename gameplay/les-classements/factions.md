@@ -57,5 +57,5 @@ Pour que les récompenses soient disponibles, une moyenne de 50 joueurs connect�
 {% endhint %}
 
 {% hint style="danger" %}
-Le classement est réinitialisé tous les mois. Par exemple, si le serveur ouvre le 15 janvier, le classement sera réinitialisé le 11 février.
+Le classement est réinitialisé tous les mois. Par exemple, si le serveur ouvre le 15 janvier, le classement sera réinitialisé le 15 février.
 {% endhint %}
