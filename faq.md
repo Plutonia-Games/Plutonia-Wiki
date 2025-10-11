@@ -56,6 +56,10 @@ Il vous faudra vous connecter à votre ancien compte et faire une demande de ré
 
 Si vous aviez encore des points boutiques sur votre compte, ils vous ont été totalement remboursés. Si vous aviez des kits, ils vous ont été remboursés en points d'honneur sur votre compte.
 
+{% hint style="danger" %}
+À titre d’information, les spawners achetés avant la version 14 ne sont pas éligibles à un remboursement. Seuls les kits et les montures ont été remboursés. (En fonction des données que nous avions)
+{% endhint %}
+
 Si vous avez un problème avec votre compte, veuillez créer un ticket sur [notre serveur Discord](https://discord.gg/plutonia).
 
 
