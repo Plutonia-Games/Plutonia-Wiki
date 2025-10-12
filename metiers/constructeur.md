@@ -34,11 +34,15 @@ Vous pouvez gagner de l'expérience de différentes manières, voici un tableau 
 
 Les récompenses augmentent du niveau <mark style="color:orange;">le plus bas au plus élevé en fonction des réalisations</mark>. Elles sont disponibles tous les 10 niveaux. Voici un tableau qui vous donne toutes les récompenses disponibles pour le métier de constructeur.
 
-| Niveau | Récompense                              |
-| ------ | --------------------------------------- |
-| 10     | Accès à 3 clés avancées.                |
-| 20     | 10% de réduction sur le prix des blocs. |
-| 30     | 20% de réduction sur le prix des blocs. |
-| 40     | Accès à une clef Jackpot.               |
-| 50     | Accès à une clef Ultime.                |
-| 60     | Accès à 10 minutes par jour de vol.     |
+| Niveau | Récompense                  |
+| ------ | --------------------------- |
+| 6      | Accès à 1 clé jackpot.      |
+| 12     | Craft du bloc de grotte.    |
+| 18     | Craft du bloc de rituel.    |
+| 24     | Craft de l'alarme.          |
+| 30     | Craft du casque de pilleur. |
+| 36     | Craft du chercheur de base. |
+| 42     | Craft du seau de sang.      |
+| 48     | Craft du bloc anti-mount.   |
+| 54     | Accès au monde de l'end.    |
+| 60     | Accès à 3 clés jackpot.     |
