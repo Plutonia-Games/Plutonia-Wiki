@@ -18,13 +18,14 @@ Le classement farming est très complet et tient compte de nombreux paramètres.
 
 Vous vous demandez comment gagner des points facilement ? Voici un tableau avec tous les paramètres disponibles ci-dessous.
 
-| Les façons de gagner des points                                                  |
-| -------------------------------------------------------------------------------- |
-| Vous gagnez 1 point pour chaque tranche de 1 000 blocs cassés.                   |
-| Vous gagnez 1 point pour chaque tranche de 1 000 blocs placés.                   |
-| Vous gagnez 1 point pour chaque tranche de 1 000 entités tuées.                  |
-| Vous gagnez 1 point pour chaque tranche de 10 000 minutes jouées sur le serveur. |
-| Vous gagnez 1 point pour chaque tranche de 10 000 dollars.                       |
+| Les façons de gagner des points |
+| ------------------------------- |
+| x1000 blocs placés : 1 point    |
+| x2000 blocs cassés : 1 point    |
+| x2000 entités tuées : 1 point   |
+| x300 minutes de jeu : 1 point   |
+| x15 000$ : 1 point              |
+| x2 quêtes : 1 point             |
 
 
 
