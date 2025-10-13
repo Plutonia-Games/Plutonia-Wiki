@@ -18,16 +18,16 @@ Le classement des factions est très complet et tient compte de nombreux paramè
 
 Vous vous demandez comment gagner des points facilement ? Voici un tableau avec tous les paramètres disponibles ci-dessous.
 
-| Les façons de gagner des points                                     |
-| ------------------------------------------------------------------- |
-| Vous obtenez 1 point pour chaque duo de membres dans votre faction. |
-| Vous gagnez 1 point pour chaque puissance (power).                  |
-| Pour chaque réclamation (claim), vous gagnez 1 point.               |
-| Un avant-poste rapporte 4 points.                                   |
-| Vous gagnez 1 point pour chaque tranche de 10 000 dollars.          |
-| Pour chaque événement remporté, vous gagnez 25 points.              |
-| Éliminer un joueur vous rapporte 1 point.                           |
-| Chaque mort vous fait perdre 1 point.                               |
+| Les façons de gagner des points     |
+| ----------------------------------- |
+| 1 membre : 0.5 point                |
+| x1 puissance (power) : 0.25 point   |
+| x1 territoire (claim) : 0.025 point |
+| x1 avant poste : 4 points           |
+| x50 000$ : 1 point                  |
+| x1 évent : 5 points                 |
+| x1 tué : 0.5 point                  |
+| x1 mort : -0.25 point               |
 
 
 
