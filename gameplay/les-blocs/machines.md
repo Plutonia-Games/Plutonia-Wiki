@@ -46,7 +46,7 @@ Le four en topaze réduit de moitié le temps de cuisson par rapport à un four 
 
 <summary><img src="../../.gitbook/assets/satteliterevised.png" alt="" data-size="line"> L'alarme</summary>
 
-L'alarme est un bloc qui permet de <mark style="color:orange;">vous informer via Discord</mark> si une personne est présente dans <mark style="color:orange;">un rayon de 100 blocs aux alentours</mark>.
+L'alarme est un bloc qui permet de <mark style="color:orange;">vous informer via Discord</mark> si une personne est présente dans <mark style="color:orange;">le chunk ou celle-ci est posée</mark>.
 
 <mark style="color:orange;">Pour qu'elle vous envoie des notifications sur Discord, il vous faudra lier votre compte à celle-ci via la commande</mark> <mark style="color:orange;"></mark><mark style="color:orange;">`/link`</mark><mark style="color:orange;">.</mark>
 
