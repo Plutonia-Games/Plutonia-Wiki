@@ -34,11 +34,15 @@ Vous pouvez gagner de l'expérience de différentes manières, voici un tableau 
 
 Les récompenses augmentent du niveau <mark style="color:orange;">le plus bas au plus élevé en fonction des réalisations</mark>. Elles sont disponibles tous les 10 niveaux. Voici un tableau qui vous donne toutes les récompenses disponibles pour le métier de fermier.
 
-| Niveau | Récompense                                         |
-| ------ | -------------------------------------------------- |
-| 10     | Accès à 3 clés avancées.                           |
-| 20     | Effet respiration aquatique 1.                     |
-| 30     | Accès à une faux suprême. (U3 M1)                  |
-| 40     | Réduction de la perte de durabilité sur les faux.  |
-| 50     | Accès à une clef Jackpot.                          |
-| 60     | 10% de plus sur le prix de vente des agricultures. |
+| Niveau | Récompense                        |
+| ------ | --------------------------------- |
+| 6      | Craft de l'établi suprême.        |
+| 12     | Craft de la potion d'intuition.   |
+| 18     | Craft du spawner sombre (tier 0). |
+| 24     | Craft des bottes du fermier.      |
+| 30     | Craft de la faux suprême.         |
+| 36     | Craft du spawner sombre (tier 1). |
+| 42     | Craft du bloc de grotte.          |
+| 48     | Craft du tapis satanique.         |
+| 54     | Craft du seau de sang.            |
+| 60     | Accès à 3 clés jackpot.           |
