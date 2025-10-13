@@ -34,11 +34,15 @@ Vous pouvez gagner de l'expérience de différentes manières, voici un tableau 
 
 Les récompenses augmentent du niveau <mark style="color:orange;">le plus bas au plus élevé en fonction des réalisations</mark>. Elles sont disponibles tous les 10 niveaux. Voici un tableau qui vous donne toutes les récompenses disponibles pour le métier de mineur.
 
-| Niveau | Récompense                                          |
-| ------ | --------------------------------------------------- |
-| 10     | Effet résistance au feu 1.                          |
-| 20     | Réduction du délai de RTP.                          |
-| 30     | 10% de plus sur le prix de vente des minerais.      |
-| 40     | Accès à une paxel en Plutonium. (E5 U3 S1 M1)       |
-| 50     | Accès à une clef Jackpot.                           |
-| 60     | Réduction de la perte de durabilité sur les outils. |
+| Niveau | Récompense                        |
+| ------ | --------------------------------- |
+| 6      | Craft du plastron du mineur.      |
+| 12     | Craft de la pioche suprême.       |
+| 18     | Craft du spawner sombre (tier 2). |
+| 24     | Craft du spawner sombre (tier 3). |
+| 30     | Craft du tapis satanique.         |
+| 36     | Accès au monde de l'end.          |
+| 42     | Craft du bloc de grotte.          |
+| 48     | Craft de l'interface de piratage. |
+| 54     | Accès à 1 clé jackpot.            |
+| 60     | Accès à 3 clés jackpot.           |
