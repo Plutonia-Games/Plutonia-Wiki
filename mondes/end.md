@@ -9,7 +9,7 @@ description: On peut tuer le dragon ?
 Nous avons décidé d'héberger l'`End` sur un serveur entièrement indépendant. Cela garantit une expérience fluide à travers tous nos services et résout de nombreux problèmes liés à la duplication. Tout est similaire à l' `End` normal, <mark style="color:orange;">cependant, il est important de se rappeler que ce serveur fonctionne indépendamment du serveur factions, même si les inventaires, les économies, le chat, les quêtes et les métiers sont liés.</mark>
 
 {% hint style="info" %}
-Vous pouvez aller sur ce serveur grâce à la commande `/end`. Cependant il vous faudra être niveau 5 dans le métier de chasseur pour y accéder.
+Vous pouvez aller sur ce serveur grâce à la commande `/end`. Cependant il vous faudra être niveau 54 dans le métier "Builder", ou niveau 42 dans le métier "Mineur" pour y accéder.
 {% endhint %}
 
 
