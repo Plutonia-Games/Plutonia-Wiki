@@ -34,11 +34,15 @@ Vous pouvez gagner de l'expérience de différentes manières, voici un tableau 
 
 Les récompenses augmentent du niveau <mark style="color:orange;">le plus bas au plus élevé en fonction des réalisations</mark>. Elles sont disponibles tous les 10 niveaux. Voici un tableau qui vous donne toutes les récompenses disponibles pour le métier de chasseur.
 
-| Niveau | Récompense                                           |
-| ------ | ---------------------------------------------------- |
-| 10     | Effect force 1.                                      |
-| 20     | 10% de chance de doubler les loots des monstres.     |
-| 30     | Accès à une épée en mercure. (T5 C5 F5 S3 R1)        |
-| 40     | La commande `/near` a une portée de 150 blocs.       |
-| 50     | Durabilité augmentée sur les épées et armures.       |
-| 60     | 10% de chance d'infliger des dégâts supplémentaires. |
+| Niveau | Récompense                            |
+| ------ | ------------------------------------- |
+| 6      | Craft du chercheur de base.           |
+| 12     | Craft du scalpel.                     |
+| 18     | Craft de l'interface de piratage.     |
+| 24     | Craft du décrafteur.                  |
+| 30     | Craft de la gemme compressée.         |
+| 36     | Craft de la table de désenchantement. |
+| 42     | Craft du coffre en obsidienne.        |
+| 48     | Craft de l'arc suprême.               |
+| 54     | Craft de la pioche suprême.           |
+| 60     | Craft de la loupe.                    |
