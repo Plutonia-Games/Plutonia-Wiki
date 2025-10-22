@@ -37,17 +37,16 @@ Les récompenses sont diverses et variées. Voici un tableau qui vous présente 
 
 {% tabs %}
 {% tab title="🥇" %}
-* Goodies - Ces articles seront envoyés à tous les membres intéressés de la faction. Le paquet inclut : un sweat-shirt, un tee-shirt, et une lettre de remerciement.
-* 300 € - Cette somme sera partagée entre tous les membres de la faction.
+* 150 € - Cette somme sera partagée entre tous les membres de la faction.
 {% endtab %}
 
 {% tab title="🥈" %}
-* 15 000 points boutiques - Ces points seront répartis entre tous les membres de la faction.
+* 5000 points boutiques - Ces points seront répartis entre tous les membres de la faction.
 * 100 € - Cette somme sera partagée entre tous les membres de la faction.
 {% endtab %}
 
 {% tab title="🥉" %}
-* 25 000 points boutiques - Ces points seront répartis entre tous les membres de la faction.
+* 2500 points boutiques - Ces points seront répartis entre tous les membres de la faction.
 * 50 € - Cette somme sera partagée entre tous les membres de la faction.
 {% endtab %}
 {% endtabs %}
